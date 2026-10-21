@@ -1,0 +1,401 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-10-22",
+  "brand": "Kinetix Classes",
+  "categories": {
+    "logo": {
+      "avatar": {
+        "source_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs",
+        "original_path": "evidence/source_photos/logo_avatar.jpg",
+        "width": 512,
+        "height": 512,
+        "variants": {
+          "webp_512": "/assets/logo/kinetix-avatar-512.webp",
+          "webp_256": "/assets/logo/kinetix-avatar-256.webp",
+          "webp_128": "/assets/logo/kinetix-avatar-128.webp",
+          "jpg_512": "/assets/logo/kinetix-avatar-512.jpg",
+          "favicon_32": "/assets/logo/favicon-32x32.png",
+          "favicon_16": "/assets/logo/favicon-16x16.png"
+        },
+        "status": "VERIFIED"
+      },
+      "vector": {
+        "mark_svg": "/assets/logo/kinetix-logo-mark.svg",
+        "full_logo_svg": "/assets/logo/kinetix-logo.svg",
+        "favicon_svg": "/assets/logo/favicon.svg",
+        "dimensions": "Scalable Vector Graphics",
+        "status": "VERIFIED"
+      }
+    },
+    "hero": {
+      "composite": {
+        "description": "Authentic multi-angle classroom montage of Kinetix Classes students and faculty in session",
+        "width": 1200,
+        "height": 700,
+        "variants": {
+          "webp": "/assets/hero/hero-classroom-composite.webp",
+          "jpg": "/assets/hero/hero-classroom-composite.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "kinetic_field": {
+        "svg": "/assets/hero/hero-kinetic-field.svg",
+        "description": "Bespoke mathematical/physics kinetic energy trajectory field in dark mode",
+        "status": "VERIFIED"
+      }
+    },
+    "courses": {
+      "course-neet-medical": {
+        "title": "NEET Medical Entrance",
+        "svg": "/assets/courses/course-neet-medical.svg",
+        "description": "DNA Double Helix & Molecular Synthesis",
+        "status": "VERIFIED"
+      },
+      "course-iit-jee": {
+        "title": "IIT JEE Main & Advanced",
+        "svg": "/assets/courses/course-iit-jee.svg",
+        "description": "Parabolic Kinetic Trajectory & Vector Force",
+        "status": "VERIFIED"
+      },
+      "course-class12-pcm": {
+        "title": "Class 12 PCM (Board + Entrance)",
+        "svg": "/assets/courses/course-class12-pcm.svg",
+        "description": "Electromagnetic Wave Fields",
+        "status": "VERIFIED"
+      },
+      "course-class11-pcm": {
+        "title": "Class 11 PCM Foundation",
+        "svg": "/assets/courses/course-class11-pcm.svg",
+        "description": "Bohr Atomic Quantum Orbitals",
+        "status": "VERIFIED"
+      },
+      "course-class12-pcb": {
+        "title": "Class 12 PCB (Board + NEET)",
+        "svg": "/assets/courses/course-class12-pcb.svg",
+        "description": "Biochemical Synthesis & Cellular Genetics",
+        "status": "VERIFIED"
+      },
+      "course-class11-pcb": {
+        "title": "Class 11 PCB Foundation",
+        "svg": "/assets/courses/course-class11-pcb.svg",
+        "description": "Plant Physiology & Molecular Lattice",
+        "status": "VERIFIED"
+      },
+      "course-class10-boards": {
+        "title": "Class 10 Board (Maths & Science)",
+        "svg": "/assets/courses/course-class10-boards.svg",
+        "description": "Light Prism Dispersion & Geometric Proof",
+        "status": "VERIFIED"
+      },
+      "course-class9-foundation": {
+        "title": "Class 9 Science & Maths",
+        "svg": "/assets/courses/course-class9-foundation.svg",
+        "description": "Foundational Science Compass & Mechanics",
+        "status": "VERIFIED"
+      },
+      "course-nda-defence": {
+        "title": "NDA Coaching (Maths & GAT)",
+        "svg": "/assets/courses/course-nda-defence.svg",
+        "description": "Navigational Vector Compass & Radar Azimuth",
+        "status": "VERIFIED"
+      },
+      "course-cuet": {
+        "title": "CUET General & Domain Prep",
+        "svg": "/assets/courses/course-cuet.svg",
+        "description": "Multidisciplinary Knowledge Hexagon Network",
+        "status": "VERIFIED"
+      }
+    },
+    "faculty": {
+      "faculty-physics-mentor": {
+        "role": "Senior Physics Faculty",
+        "credentials": "Ex-IITian \u2022 8+ Yrs Exp",
+        "svg": "/assets/faculty/faculty-physics-mentor.svg",
+        "status": "PLACEHOLDER_STRUCTURED"
+      },
+      "faculty-chemistry-mentor": {
+        "role": "Senior Chemistry Faculty",
+        "credentials": "Doctorate \u2022 8+ Yrs Exp",
+        "svg": "/assets/faculty/faculty-chemistry-mentor.svg",
+        "status": "PLACEHOLDER_STRUCTURED"
+      },
+      "faculty-maths-mentor": {
+        "role": "Senior Mathematics Faculty",
+        "credentials": "Ex-IITian \u2022 9+ Yrs Exp",
+        "svg": "/assets/faculty/faculty-maths-mentor.svg",
+        "status": "PLACEHOLDER_STRUCTURED"
+      },
+      "faculty-biology-mentor": {
+        "role": "Senior Biology Faculty",
+        "credentials": "Medical Faculty \u2022 Doctor",
+        "svg": "/assets/faculty/faculty-biology-mentor.svg",
+        "status": "PLACEHOLDER_STRUCTURED"
+      }
+    },
+    "gallery": {
+      "photo-01-faculty-whiteboard-teaching": {
+        "original_url": "https://lh3.googleusercontent.com/UK9ageUOTgZMKMDUAY8UJA2Y2JO59CncsgetFVhp4YFK_w-QUm9j7976L8wI2uDkuomt9hfhGAqcrBrS",
+        "local_path": "/assets/gallery/photo-01-faculty-whiteboard-teaching.webp",
+        "source_file": "photo_1.jpg",
+        "alt": "Faculty teaching at whiteboard in classroom",
+        "page": "Home, About",
+        "width": 512,
+        "height": 384,
+        "aspect_ratio": 1.333,
+        "variants": {
+          "webp": "/assets/gallery/photo-01-faculty-whiteboard-teaching.webp",
+          "webp_400w": "/assets/gallery/photo-01-faculty-whiteboard-teaching-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-01-faculty-whiteboard-teaching.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "photo-02-students-classroom-lecture": {
+        "original_url": "https://lh3.googleusercontent.com/YffIwbjclgHBq0ELbY1atn7T0tM4xolUkUAeHFuCkO5m7wTnqHZ9lABzVwGrQV6P-FiAA9bDpLNWBJU1",
+        "local_path": "/assets/gallery/photo-02-students-classroom-lecture.webp",
+        "source_file": "photo_2.jpg",
+        "alt": "Classroom lecture with attentive students",
+        "page": "Home, About",
+        "width": 341,
+        "height": 512,
+        "aspect_ratio": 0.666,
+        "variants": {
+          "webp": "/assets/gallery/photo-02-students-classroom-lecture.webp",
+          "webp_400w": "/assets/gallery/photo-02-students-classroom-lecture-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-02-students-classroom-lecture.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "photo-03-science-whiteboard-formulas": {
+        "original_url": "https://lh3.googleusercontent.com/deDktTwmnoyr2DHmQlPeKQejjB6QqQstHlPXftJNXbal79t9MCO2VsXvOon0WE_ODZoM4BZOSfL8HoOU",
+        "local_path": "/assets/gallery/photo-03-science-whiteboard-formulas.webp",
+        "source_file": "photo_3.jpg",
+        "alt": "Handwritten physics and science equations on whiteboard",
+        "page": "Home, About",
+        "width": 341,
+        "height": 512,
+        "aspect_ratio": 0.666,
+        "variants": {
+          "webp": "/assets/gallery/photo-03-science-whiteboard-formulas.webp",
+          "webp_400w": "/assets/gallery/photo-03-science-whiteboard-formulas-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-03-science-whiteboard-formulas.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "photo-04-classroom-batch-attendance": {
+        "original_url": "https://lh3.googleusercontent.com/BuSISm2K9I9VqaATomgQfTb-Ni3M-7JP3GMwAdmt3QJGuUXqNcn2zrS2sq8ONNV_K0Gy9Q82PN40z1ur",
+        "local_path": "/assets/gallery/photo-04-classroom-batch-attendance.webp",
+        "source_file": "photo_4.jpg",
+        "alt": "Focused small-batch science coaching in session",
+        "page": "Home, About",
+        "width": 362,
+        "height": 512,
+        "aspect_ratio": 0.707,
+        "variants": {
+          "webp": "/assets/gallery/photo-04-classroom-batch-attendance.webp",
+          "webp_400w": "/assets/gallery/photo-04-classroom-batch-attendance-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-04-classroom-batch-attendance.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "photo-05-interactive-student-session": {
+        "original_url": "https://lh3.googleusercontent.com/-u2rIN0MJxbj27KCGBRKqpsZl6hlfoSx5yUOLcS3CYOpphuNF23jpChT3NRXmGCOxEju6WuJLAyLMvir",
+        "local_path": "/assets/gallery/photo-05-interactive-student-session.webp",
+        "source_file": "photo_5.jpg",
+        "alt": "Interactive classroom concept learning session",
+        "page": "Home, About",
+        "width": 512,
+        "height": 398,
+        "aspect_ratio": 1.286,
+        "variants": {
+          "webp": "/assets/gallery/photo-05-interactive-student-session.webp",
+          "webp_400w": "/assets/gallery/photo-05-interactive-student-session-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-05-interactive-student-session.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "photo-06-institute-exterior-entrance": {
+        "original_url": "https://lh3.googleusercontent.com/HJTcHYy-z_xpM7kJXZKztfPaMekD5gaPTpoFdmK6Sm7E-6YUSAOpuiWO4JG7Tte5P--ZwlXu6UleqT1S",
+        "local_path": "/assets/gallery/photo-06-institute-exterior-entrance.webp",
+        "source_file": "photo_6.jpg",
+        "alt": "Kinetix Classes institute exterior signage in Alpha 2",
+        "page": "Home, About",
+        "width": 512,
+        "height": 205,
+        "aspect_ratio": 2.498,
+        "variants": {
+          "webp": "/assets/gallery/photo-06-institute-exterior-entrance.webp",
+          "webp_400w": "/assets/gallery/photo-06-institute-exterior-entrance-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-06-institute-exterior-entrance.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "photo-07-classroom-study-environment": {
+        "original_url": "https://lh3.googleusercontent.com/bgEXXX6GZijMSaCaoFZE1wbDhcszdSamIEDi_pZgriRNR4ypuB5hh8IGGKgamT883zMohlKPo-K4y81e",
+        "local_path": "/assets/gallery/photo-07-classroom-study-environment.webp",
+        "source_file": "photo_7.jpg",
+        "alt": "Classroom study desks and whiteboard lighting",
+        "page": "Home, About",
+        "width": 423,
+        "height": 512,
+        "aspect_ratio": 0.826,
+        "variants": {
+          "webp": "/assets/gallery/photo-07-classroom-study-environment.webp",
+          "webp_400w": "/assets/gallery/photo-07-classroom-study-environment-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-07-classroom-study-environment.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "photo-08-coaching-desk-learning-hall": {
+        "original_url": "https://lh3.googleusercontent.com/xRyQaFV-1hfcsQDsIKl7bE3y4IIOpOgHUN3Bg6Y60gwgVWnnfvhWvCkZbITCwJ1d-wi_XWMeRIt0LVGU",
+        "local_path": "/assets/gallery/photo-08-coaching-desk-learning-hall.webp",
+        "source_file": "photo_8.jpg",
+        "alt": "Coaching study hall environment",
+        "page": "Home, About",
+        "width": 512,
+        "height": 230,
+        "aspect_ratio": 2.226,
+        "variants": {
+          "webp": "/assets/gallery/photo-08-coaching-desk-learning-hall.webp",
+          "webp_400w": "/assets/gallery/photo-08-coaching-desk-learning-hall-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-08-coaching-desk-learning-hall.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "photo-09-academic-discussion-corner": {
+        "original_url": "https://lh3.googleusercontent.com/MoXrTji9QLP30twTHjXouiLIYXVNoN4wz2bTdj8Ev_WN3xFM8wWjIQSaFUaL_F0b9XDGIq8UyCPsrhdb",
+        "local_path": "/assets/gallery/photo-09-academic-discussion-corner.webp",
+        "source_file": "photo_9.jpg",
+        "alt": "Academic study hall perspective",
+        "page": "Home, About",
+        "width": 512,
+        "height": 240,
+        "aspect_ratio": 2.133,
+        "variants": {
+          "webp": "/assets/gallery/photo-09-academic-discussion-corner.webp",
+          "webp_400w": "/assets/gallery/photo-09-academic-discussion-corner-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-09-academic-discussion-corner.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "photo-10-concept-problem-solving": {
+        "original_url": "https://lh3.googleusercontent.com/oFdBU6ZHTLcC4_-lJnSYaolfFkaeCQSdTEgkUX-z59fXfsblf5kt0kw4W73Sg2VVuW4MaNHnDmkg34vh",
+        "local_path": "/assets/gallery/photo-10-concept-problem-solving.webp",
+        "source_file": "photo_10.jpg",
+        "alt": "Faculty solving numerical problems with students",
+        "page": "Home, About",
+        "width": 329,
+        "height": 512,
+        "aspect_ratio": 0.643,
+        "variants": {
+          "webp": "/assets/gallery/photo-10-concept-problem-solving.webp",
+          "webp_400w": "/assets/gallery/photo-10-concept-problem-solving-400w.webp",
+          "jpg_fallback": "/assets/gallery/photo-10-concept-problem-solving.jpg"
+        },
+        "status": "VERIFIED"
+      },
+      "post-neet-july-announcement": {
+        "original_url": "https://lh3.googleusercontent.com/p/AF1QipMBRxvL-2dO_eHc1B83E4HjuMWd0PPmMWnuKrF5",
+        "local_path": "/assets/gallery/post-neet-july-announcement.webp",
+        "source_file": "post_image.jpg",
+        "alt": "NEET classes announcement flyer",
+        "page": "Home, Posts, Post Detail",
+        "width": 341,
+        "height": 512,
+        "aspect_ratio": 0.666,
+        "variants": {
+          "webp": "/assets/gallery/post-neet-july-announcement.webp",
+          "jpg_fallback": "/assets/gallery/post-neet-july-announcement.jpg"
+        },
+        "status": "VERIFIED"
+      }
+    },
+    "icons": {
+      "icon-small-batches": "/assets/icons/icon-small-batches.svg",
+      "icon-expert-faculty": "/assets/icons/icon-expert-faculty.svg",
+      "icon-scholarship-emi": "/assets/icons/icon-scholarship-emi.svg",
+      "icon-ncert-focused": "/assets/icons/icon-ncert-focused.svg",
+      "icon-mock-tests": "/assets/icons/icon-mock-tests.svg",
+      "icon-personal-mentoring": "/assets/icons/icon-personal-mentoring.svg",
+      "icon-phone": "/assets/icons/icon-phone.svg",
+      "icon-whatsapp": "/assets/icons/icon-whatsapp.svg",
+      "icon-location": "/assets/icons/icon-location.svg",
+      "icon-star-filled": "/assets/icons/icon-star-filled.svg",
+      "icon-check-verified": "/assets/icons/icon-check-verified.svg",
+      "icon-arrow-right": "/assets/icons/icon-arrow-right.svg",
+      "icon-close": "/assets/icons/icon-close.svg"
+    },
+    "og": {
+      "default": {
+        "width": 1200,
+        "height": 630,
+        "variants": {
+          "png": "/assets/og/og-image.png",
+          "webp": "/assets/og/og-image.webp"
+        },
+        "status": "VERIFIED"
+      }
+    },
+    "reviews": {
+      "rev-01-pk-desai": {
+        "name": "Pk Desai",
+        "avatar_svg": "/assets/reviews/rev-01-pk-desai.svg",
+        "tag": "DPS Greater Noida student",
+        "status": "VERIFIED"
+      },
+      "rev-02-sanjeev-kumar": {
+        "name": "Sanjeev Kumar",
+        "avatar_svg": "/assets/reviews/rev-02-sanjeev-kumar.svg",
+        "tag": "Verified parent/student",
+        "status": "VERIFIED"
+      },
+      "rev-03-aditya-singh": {
+        "name": "Aditya Singh",
+        "avatar_svg": "/assets/reviews/rev-03-aditya-singh.svg",
+        "tag": "Great coaching institute",
+        "status": "VERIFIED"
+      },
+      "rev-04-dharmvir-singh": {
+        "name": "Dharmvir Singh",
+        "avatar_svg": "/assets/reviews/rev-04-dharmvir-singh.svg",
+        "tag": "Very good study",
+        "status": "VERIFIED"
+      },
+      "rev-05-sushila-gautam": {
+        "name": "Sushila Gautam",
+        "avatar_svg": "/assets/reviews/rev-05-sushila-gautam.svg",
+        "tag": "Good environment & facility",
+        "status": "VERIFIED"
+      },
+      "rev-06-mohit-pal": {
+        "name": "Mohit Pal",
+        "avatar_svg": "/assets/reviews/rev-06-mohit-pal.svg",
+        "tag": "Very nice classes",
+        "status": "VERIFIED"
+      },
+      "rev-07-sarvesh-chaturvedi": {
+        "name": "Sarvesh Chaturvedi",
+        "avatar_svg": "/assets/reviews/rev-07-sarvesh-chaturvedi.svg",
+        "tag": "Excellent teaching staff",
+        "status": "VERIFIED"
+      },
+      "rev-08-sonu-khan": {
+        "name": "Sonu Khan",
+        "avatar_svg": "/assets/reviews/rev-08-sonu-khan.svg",
+        "tag": "Number one institute for NEET/JEE",
+        "status": "VERIFIED"
+      },
+      "rev-09-rehan-ansari": {
+        "name": "Rehan Ansari",
+        "avatar_svg": "/assets/reviews/rev-09-rehan-ansari.svg",
+        "tag": "Class 11 JEE Main aspirant",
+        "status": "VERIFIED"
+      },
+      "rev-10-mohatsim-mansoori": {
+        "name": "Mohatsim Mansoori",
+        "avatar_svg": "/assets/reviews/rev-10-mohatsim-mansoori.svg",
+        "tag": "11th CBSE PCMB brother",
+        "status": "VERIFIED"
+      }
+    }
+  }
+}

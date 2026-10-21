@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" fill="none">
+  <defs>
+    <linearGradient id="grad_course-class12-pcb" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14B8A6"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="120" rx="16" fill="#0E1624"/>
+  <rect width="480" height="120" rx="16" stroke="#1E293B" stroke-width="1.5"/>
+  <circle cx="150" cy="60" r="30" stroke="#14B8A6" stroke-width="3" fill="none"/>
+        <circle cx="240" cy="60" r="30" stroke="#2DD4BF" stroke-width="3" fill="none"/>
+        <circle cx="330" cy="60" r="30" stroke="#5EEAD4" stroke-width="3" fill="none"/>
+        <line x1="175" y1="60" x2="215" y2="60" stroke="#FFFFFF" stroke-width="2.5"/>
+        <line x1="265" y1="60" x2="305" y2="60" stroke="#FFFFFF" stroke-width="2.5"/>
+        <circle cx="150" cy="60" r="6" fill="#14B8A6"/>
+        <circle cx="240" cy="60" r="6" fill="#2DD4BF"/>
+        <circle cx="330" cy="60" r="6" fill="#5EEAD4"/>
+</svg>

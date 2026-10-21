@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" fill="none">
+  <defs>
+    <radialGradient id="hGlow1" cx="30%" cy="35%" r="55%">
+      <stop offset="0%" stop-color="#00E5C8" stop-opacity="0.16"/>
+      <stop offset="60%" stop-color="#2563EB" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#070C14" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hGlow2" cx="80%" cy="60%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.14"/>
+      <stop offset="70%" stop-color="#070C14" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="lineGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5C8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="lineGrad2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.6"/>
+      <stop offset="70%" stop-color="#00E5C8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.8"/>
+    </linearGradient>
+    <pattern id="gridPattern" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#1E293B" stroke-width="0.75" stroke-opacity="0.4"/>
+      <circle cx="48" cy="48" r="1" fill="#38BDF8" fill-opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <!-- Deep Base Background -->
+  <rect width="1440" height="900" fill="#070C14"/>
+  <!-- Coordinate Engineering Grid -->
+  <rect width="1440" height="900" fill="url(#gridPattern)"/>
+  <!-- Ambient Radial Glows -->
+  <rect width="1440" height="900" fill="url(#hGlow1)"/>
+  <rect width="1440" height="900" fill="url(#hGlow2)"/>
+
+  <!-- Parabolic Kinetic Trajectory Curves -->
+  <path d="M -100 750 Q 400 150 900 480 T 1550 200" stroke="url(#lineGrad1)" stroke-width="2.5" fill="none" stroke-dasharray="8 6"/>
+  <path d="M -50 620 C 350 780 750 180 1500 520" stroke="url(#lineGrad2)" stroke-width="2" fill="none" opacity="0.65"/>
+  <path d="M 200 950 C 600 650 950 820 1480 380" stroke="#00E5C8" stroke-width="1.5" fill="none" opacity="0.35"/>
+
+  <!-- Kinetic Velocity Tangent Vectors -->
+  <g opacity="0.7">
+    <line x1="450" y1="310" x2="520" y2="280" stroke="#00E5C8" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="520,280 508,280 514,288" fill="#00E5C8"/>
+    <circle cx="450" cy="310" r="4" fill="#00E5C8"/>
+
+    <line x1="880" y1="475" x2="960" y2="435" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="960,435 948,435 954,443" fill="#38BDF8"/>
+    <circle cx="880" cy="475" r="4" fill="#38BDF8"/>
+  </g>
+
+  <!-- Physics Energy Wave Dispersion -->
+  <g stroke="#334155" stroke-width="1" opacity="0.5" fill="none">
+    <circle cx="1150" cy="320" r="60"/>
+    <circle cx="1150" cy="320" r="120" stroke-dasharray="4 8"/>
+    <circle cx="1150" cy="320" r="180" stroke-dasharray="2 10"/>
+    <circle cx="1150" cy="320" r="6" fill="#00E5C8" stroke="none"/>
+  </g>
+</svg>

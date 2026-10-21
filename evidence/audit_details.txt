@@ -1,0 +1,1162 @@
+=== URLS TESTED ===
+200 : https://kinetix-classes-for.grexa.site/robots.txt ()
+200 : https://kinetix-classes-for.grexa.site/sitemap.xml ()
+200 : https://kinetix-classes-for.grexa.site/ (Kinetix Classes For Neet and Jee - Best Coaching Center Near me in 3rd Street Alpha 2, Greater Noida)
+200 : https://kinetix-classes-for.grexa.site/about (About | Kinetix Classes For Neet and Jee)
+200 : https://kinetix-classes-for.grexa.site/contact (Contact | Kinetix Classes For Neet and Jee)
+200 : https://kinetix-classes-for.grexa.site/posts (Posts | Kinetix Classes For Neet and Jee)
+200 : https://kinetix-classes-for.grexa.site/posts/neet-classes-start-from-1-st-july__8147479800874660152 (Neet classes start from 1 st july .. | Kinetix Classes For Neet and Jee)
+200 : https://kinetix-classes-for.grexa.site/privacy-policy (Privacy Policy | Kinetix Classes For Neet and Jee)
+200 : https://kinetix-classes-for.grexa.site/products-services (Products and Services From The Best Coaching Center in Greater Noida | Kinetix Classes For Neet and Jee)
+200 : https://kinetix-classes-for.grexa.site/products-services?tab=products (Products and Services From The Best Coaching Center in Greater Noida | Kinetix Classes For Neet and Jee)
+
+=== ASSETS FOUND IN RAW AUDIT ===
+
+=== DESIGN TOKENS ===
+Colors: null
+Fonts: null
+
+========================================
+PAGE: home
+URL: https://kinetix-classes-for.grexa.site/
+Title: Kinetix Classes For Neet and Jee - Best Coaching Center Near me in 3rd Street Alpha 2, Greater Noida
+Meta: {
+  "viewport": "width=device-width, initial-scale=1",
+  "next-size-adjust": "",
+  "description": "Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute",
+  "keywords": "Coaching Center,Private Tutor,Learning Centre,Studying Centre,Training centre,Education Centre,Tutor,Educational institution,Educational testing service",
+  "robots": "index, follow",
+  "og:title": "Kinetix Classes For Neet and Jee - Best Coaching Center Near me in 3rd Street Alpha 2, Greater Noida",
+  "og:description": "Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute",
+  "og:url": "https://kinetix-classes-for.grexa.site",
+  "og:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Kinetix Classes For Neet and Jee - Best Coaching Center Near me in 3rd Street Alpha 2, Greater Noida",
+  "twitter:description": "Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute",
+  "twitter:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs"
+}
+Headings:
+  [h2] Business hours
+  [h1] Kinetix Classes For Neet and Jee - Coaching Center
+  [h2] Business hours
+  [h2] Services From The Best Coaching Center in Greater Noida
+  [h3] JEE Coaching classes
+  [h3] NEET Coaching classes
+  [h3] NDA Coaching classess
+  [h3] CUET Coaching classes
+  [h3] Class 12 PCB Coaching
+  [h3] Class 11 PCM Coaching
+  [h3] Class 12 PCM Coaching
+  [h3] ICSE Physics , Chemistry , Maths , Biology Classes
+  [h3] CBSE Physics, Chemistry, Math and Biology Coaching
+  [h3] Class 10 Board Coaching for Math and science
+  [h2] Products from Kinetix Classes For Neet and Jee in Greater Noida
+  [h3] Class 12 PCB Coaching in Greater Noida
+  [h3] Class 10 Board Coaching Near me.
+  [h3] Class 11 PCM Coaching in Greater Noida.
+  [h3] NEET Coaching in Greater Noida
+  [h3] Class 12 PCM Coaching in Greater Noida
+  [h3] Class 11 PCB Coaching in Greater Noida
+  [h3] IIT JEE Coaching in Greater Noida
+  [h3] Class 9 Coaching classes
+  [h2] Our photo gallery
+  [h2] Google reviews
+  [h2] Latest Posts & Updates
+  [h3] Neet classes start from 1 st july ..
+Text Blocks:
+  * <p in <dialog>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <dialog>>: You can contact us anytime during the day with your query.
+  * <p in <div>>: Kinetix Classes | NEET Coaching,
+JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida*
+Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Maths Biology PCB/PCM. We provide complete science coaching for Class 9, 10, 11 & 12 with board + competitive exam preparation.
+Our Courses:NEET Coaching in Greater Noida, JEE Coaching in Greater Noida, 11th 12th PCMB Coaching, 9th 10th Foundation Course, Dropper & Crash Batch.
+Why Students Choose Kinetix:
+1. Affordable Fee Structure: Low fee with Scholarship Test + Easy EMI option
+2. Expert Faculty: IITians & Doctors with 8+ years of NEET/JEE teaching experience
+3. Personal Attention: Small batch size.
+  * <p in <aside>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: What we do
+  * <dd in <div>>: Coaching Center, Private Tutor, Learning Centre, Studying Centre, Training centre, Education Centre, Tutor, Educational institution, Educational testing service
+  * <dt in <div>>: Location
+  * <dd in <div>>: I 120 Alpha 2 Greater Noida 201310, 3rd Street Alpha 2, Greater Noida, Uttar Pradesh, 201310
+  * <p in <dialog>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <dialog>>: You can contact us anytime during the day with your query.
+  * <p in <article>>: Structured preparation for JEE Main and Advanced with experienced faculty, concept-building, problem-solving practice, mock tests, and performance analysis. IIT JEE Coaching Greater Noida JEE Main Coaching JEE Advanced Coaching Best JEE Institute
+  * <p in <article>>: Comprehensive NEET preparation with Biology, Physics, Chemistry, NCERT-based learning, test series, previous-year questions, and regular mentoring. Best NEET Coaching Greater Noida NEET Preparation Medical Entrance Coaching
+  * <p in <article>>: NDA coaching with Mathematics, General Ability Test (GAT), English, reasoning, mock tests, and interview guidance. NDA Coaching Greater Noida. NDA Preparation Defence Exam Coaching Defence Exam Coaching
+  * <p in <article>>: Complete CUET coaching with subject preparation, aptitude training, mock tests, and exam strategy sessions. CUET Coaching Greater Noida CUET Classes CUET Preparation
+  * <p in <article>>: Class 12 PCB coaching in Greater Noida covering Physics, Chemistry and Biology for CBSE, ICSE and NEET preparation. Regular assessments, NCERT-based teaching, doubt sessions and expert faculty help students achieve top scores.
+  * <p in <article>>: Class 11 PCM coaching in Greater Noida with expert faculty for Physics, Chemistry and Mathematics. Ideal for CBSE and ICSE students preparing for school exams and IIT JEE foundation with regular tests, assignments and doubt-solving sessions.
+  * <p in <article>>: Class 12 PCM coaching in Greater Noida for board exams and IIT JEE preparation. Expert coaching in Physics, Chemistry and Mathematics with weekly tests, previous year papers, revision classes and personalized mentoring for excellent results.
+  * <p in <article>>: ICSE Physics, Chemistry, Maths & Biology Classes in Greater Noida by Kinetix Classes provide expert coaching for Classes 11 & 12 with experienced faculty, small batches, regular tests, practical learning, doubt-solving sessions and complete board exam preparation for excellent academic performance.
+  * <p in <article>>: CBSE Physics, Chemistry, Maths & Biology Coaching in Greater Noida by Kinetix Classes offers expert coaching for Classes 11 & 12 with experienced faculty, small batches, concept-based learning, regular tests, doubt-solving sessions and complete preparation for CBSE board exams, NEET and IIT JEE.
+  * <p in <article>>: Class 10 board coaching in Greater Noida for CBSE and ICSE students covering Mathematics, Science, English, Hindi and Social Science. Chapter-wise practice, sample papers, mock tests and expert guidance help students score high in board exams.
+  * <p in <div>>: Kinetix Classes For Neet and Jee · Photos
+  * <blockquote in <figure>>: I m studying in dps greater noida,After the joining this coaching all doubts are clear ,
+Teachers are really good the... Read more
+  * <blockquote in <figure>>: Good
+  * <p in <blockquote>>: Good
+  * <blockquote in <figure>>: Great coaching institute with supportive teachers and a good learning environment. Highly recommended!
+  * <p in <blockquote>>: Great coaching institute with supportive teachers and a good learning environment. Highly recommended!
+  * <blockquote in <figure>>: Very good study
+Understand properly
+  * <p in <blockquote>>: Very good study
+Understand properly
+  * <blockquote in <figure>>: Good environment and facility for studies and best prepartion for jee and neet with experienced teacher
+  * <p in <blockquote>>: Good environment and facility for studies and best prepartion for jee and neet with experienced teacher
+  * <blockquote in <figure>>: Very nice classes and very handsome teacher 😊
+  * <p in <blockquote>>: Very nice classes and very handsome teacher 😊
+  * <blockquote in <figure>>: The teaching staff are excellent and they took care personally of each and every student. the teaching staff even exp... Read more
+  * <blockquote in <figure>>: Number one institute for neet , jee , 11th , 12th , pcm and pcb in greater Noida , I m preparing for neet this year a... Read more
+  * <blockquote in <figure>>: am preparing for JEE Main and joined KINETIX Classes for Class 11 Physics, Chemistry, and Mathematics. The faculty is... Read more
+  * <blockquote in <figure>>: My brother is in 11th CBSE PCMB at Kinetix Classes. They cover board + NEET/JEE syllabus together.
+
+Physics, Chemistr... Read more
+  * <p in <div>>: Your next step starts here.
+  * <p in <div>>: Tell Kinetix Classes For Neet and Jee what you’re looking for. We’re here to help you get started.
+  * <p in <div>>: Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Math... Read more
+  * <p in <div>>: Quick links
+  * <li in <ul>>: Home
+  * <li in <ul>>: Products & Services
+  * <li in <ul>>: About
+  * <li in <ul>>: Contact
+  * <li in <ul>>: Privacy Policy
+  * <li in <ul>>: Posts
+  * <p in <section>>: Contact us
+  * <p in <div>>: Kinetix Classes For Neet and Jee
+  * <p in <div>>: Looking for the right Coaching Center?
+Links:
+  * [Skip to content] -> #website-main
+  * [Greater Noida, Uttar Pradesh, 201310] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [8448040355] -> tel:8448040355
+  * [Kinetix Classes For Neet and Jee] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Posts] -> /posts
+  * [View all services] -> /products-services
+  * [View all products] -> /products-services?tab=products
+  * [] -> https://lh3.googleusercontent.com/UK9ageUOTgZMKMDUAY8UJA2Y2JO59CncsgetFVhp4YFK_w-QUm9j7976L8wI2uDkuomt9hfhGAqcrBrS=s0
+  * [] -> https://lh3.googleusercontent.com/YffIwbjclgHBq0ELbY1atn7T0tM4xolUkUAeHFuCkO5m7wTnqHZ9lABzVwGrQV6P-FiAA9bDpLNWBJU1=s0
+  * [] -> https://lh3.googleusercontent.com/deDktTwmnoyr2DHmQlPeKQejjB6QqQstHlPXftJNXbal79t9MCO2VsXvOon0WE_ODZoM4BZOSfL8HoOU=s0
+  * [] -> https://lh3.googleusercontent.com/BuSISm2K9I9VqaATomgQfTb-Ni3M-7JP3GMwAdmt3QJGuUXqNcn2zrS2sq8ONNV_K0Gy9Q82PN40z1ur=s0
+  * [] -> https://lh3.googleusercontent.com/-u2rIN0MJxbj27KCGBRKqpsZl6hlfoSx5yUOLcS3CYOpphuNF23jpChT3NRXmGCOxEju6WuJLAyLMvir=s0
+  * [] -> https://lh3.googleusercontent.com/HJTcHYy-z_xpM7kJXZKztfPaMekD5gaPTpoFdmK6Sm7E-6YUSAOpuiWO4JG7Tte5P--ZwlXu6UleqT1S=s0
+  * [] -> https://lh3.googleusercontent.com/bgEXXX6GZijMSaCaoFZE1wbDhcszdSamIEDi_pZgriRNR4ypuB5hh8IGGKgamT883zMohlKPo-K4y81e=s0
+  * [] -> https://lh3.googleusercontent.com/xRyQaFV-1hfcsQDsIKl7bE3y4IIOpOgHUN3Bg6Y60gwgVWnnfvhWvCkZbITCwJ1d-wi_XWMeRIt0LVGU=s0
+  * [] -> https://lh3.googleusercontent.com/MoXrTji9QLP30twTHjXouiLIYXVNoN4wz2bTdj8Ev_WN3xFM8wWjIQSaFUaL_F0b9XDGIq8UyCPsrhdb=s0
+  * [] -> https://lh3.googleusercontent.com/oFdBU6ZHTLcC4_-lJnSYaolfFkaeCQSdTEgkUX-z59fXfsblf5kt0kw4W73Sg2VVuW4MaNHnDmkg34vh=s0
+  * [Read all reviews on Google] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [July 3, 2026
+Neet classes start from 1 st july ..
+Read full post] -> /posts/neet-classes-start-from-1-st-july__8147479800874660152
+  * [View all posts] -> /posts
+  * [] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Privacy Policy] -> /privacy-policy
+  * [Posts] -> /posts
+  * [8448040355] -> tel:8448040355
+  * [Get directions
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/dir/?api=1&destination=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&destination_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [View map
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/search/?api=1&query=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [Grexa] -> https://grexa.ai/
+Buttons:
+  * {'text': 'Business hours:\nMonday-Sunday: 24 hours', 'type': 'button', 'ariaLabel': None, 'className': 'website_hoursTrigger__YumCg website_hoursCompact__sCLU7'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close business hours', 'className': 'website_hoursClose__hhN4C'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Open menu', 'className': 'website_menuToggle__e8dXp'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Business hours\nMonday-Sunday: 24 hours\nView all days', 'type': 'button', 'ariaLabel': None, 'className': 'website_hoursTrigger__YumCg '}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close business hours', 'className': 'website_hoursClose__hhN4C'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'View all photos (18)', 'type': 'button', 'ariaLabel': None, 'className': 'website_buttonOutline__8LHJl'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Zoom in', 'className': ''}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close photo gallery', 'className': ''}
+  * {'text': 'Previous photo', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonSoft__u19Po'}
+  * {'text': 'Next photo', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonSoft__u19Po'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Previous reviews', 'className': ''}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Next reviews', 'className': ''}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Read more', 'type': None, 'ariaLabel': None, 'className': 'read-toggle'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  website_stickyLeadButton__Th0Mo'}
+Forms:
+Images:
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+  * Class 12 PCB Coaching in Greater Noida product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcurbFRmu_bhAb9ZIssmh8VK7qhSiidrML9FDjgy0-Jb2T6qqargB7XO1uKiG1-yTz-gqP_80qJn9K7TAq88-rknYFQ
+  * Class 10 Board Coaching Near me. product image -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXj9LJexBXAyNqsLBymFAbfbvQnHSrDjCK86McilN1l1Hz&usqp=CAY&s=4
+  * Class 11 PCM Coaching in Greater Noida. product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcuo-yhfSQe_ebTmWWlhaEzMi3ESnANMg0Z1zRlCZ4RgXykMNeu4vG_mecSoskquHL-wYW1WZlV5NrwgmRXCBBs_lyQ
+  * NEET Coaching in Greater Noida product image -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJc75BQnVJkCoA9Tfjk9Xlh6E6QrPnhbpgKQJItab8hE8J&usqp=CAY&s=4
+  * Class 12 PCM Coaching in Greater Noida product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcup_5TSVEdP884PnXOmRSNYt1Wr6mSdWDnAx7Eevxuscd7cZXGYN-VWAZhqlskDpE5YytPK4nfmX0SEaW1p0tOWFRQ
+  * Class 11 PCB Coaching in Greater Noida product image -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUTLQWDDVQt6jHu_6GJKIkpMVshvUleGd61Ft1FYYq9bae&usqp=CAY&s=4
+  * IIT JEE Coaching in Greater Noida product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcurglJ9V5umVnghM2YvvZ5hVEKKt5Zr47Ho_fvJd2zFdIopgHiKWydAisxY60b6hoTPzMTC_5d9WQpB5H67a0CY_Bg
+  * Class 9 Coaching classes product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcuqShotPZjOCDw7XO74Co3XK7UAo4aTZJ_lvbBNixioP-UN5wdDQDbWJY65-sxXvg06GaqYHX-8RMaeb-NTwKPk28A
+  * Kinetix Classes For Neet and Jee — business photo 1 -> https://lh3.googleusercontent.com/UK9ageUOTgZMKMDUAY8UJA2Y2JO59CncsgetFVhp4YFK_w-QUm9j7976L8wI2uDkuomt9hfhGAqcrBrS
+  * Kinetix Classes For Neet and Jee — business photo 2 -> https://lh3.googleusercontent.com/YffIwbjclgHBq0ELbY1atn7T0tM4xolUkUAeHFuCkO5m7wTnqHZ9lABzVwGrQV6P-FiAA9bDpLNWBJU1
+  * Kinetix Classes For Neet and Jee — business photo 3 -> https://lh3.googleusercontent.com/deDktTwmnoyr2DHmQlPeKQejjB6QqQstHlPXftJNXbal79t9MCO2VsXvOon0WE_ODZoM4BZOSfL8HoOU
+  * Kinetix Classes For Neet and Jee — business photo 4 -> https://lh3.googleusercontent.com/BuSISm2K9I9VqaATomgQfTb-Ni3M-7JP3GMwAdmt3QJGuUXqNcn2zrS2sq8ONNV_K0Gy9Q82PN40z1ur
+  * Kinetix Classes For Neet and Jee — business photo 5 -> https://lh3.googleusercontent.com/-u2rIN0MJxbj27KCGBRKqpsZl6hlfoSx5yUOLcS3CYOpphuNF23jpChT3NRXmGCOxEju6WuJLAyLMvir
+  * Kinetix Classes For Neet and Jee — business photo 6 -> https://lh3.googleusercontent.com/HJTcHYy-z_xpM7kJXZKztfPaMekD5gaPTpoFdmK6Sm7E-6YUSAOpuiWO4JG7Tte5P--ZwlXu6UleqT1S
+  * Kinetix Classes For Neet and Jee — business photo 7 -> https://lh3.googleusercontent.com/bgEXXX6GZijMSaCaoFZE1wbDhcszdSamIEDi_pZgriRNR4ypuB5hh8IGGKgamT883zMohlKPo-K4y81e
+  * Kinetix Classes For Neet and Jee — business photo 8 -> https://lh3.googleusercontent.com/xRyQaFV-1hfcsQDsIKl7bE3y4IIOpOgHUN3Bg6Y60gwgVWnnfvhWvCkZbITCwJ1d-wi_XWMeRIt0LVGU
+  * Kinetix Classes For Neet and Jee — business photo 9 -> https://lh3.googleusercontent.com/MoXrTji9QLP30twTHjXouiLIYXVNoN4wz2bTdj8Ev_WN3xFM8wWjIQSaFUaL_F0b9XDGIq8UyCPsrhdb
+  * Kinetix Classes For Neet and Jee — business photo 10 -> https://lh3.googleusercontent.com/oFdBU6ZHTLcC4_-lJnSYaolfFkaeCQSdTEgkUX-z59fXfsblf5kt0kw4W73Sg2VVuW4MaNHnDmkg34vh
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocKfPddiYgMZ1e9kFt7dOCqUPd29vo8arjhRHuj7mgtSC6DYUQ=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocIlYgjderM0DcPt2NFzGOz4CxB93YDnNNkmzp0HVdKDELHyhQ=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocImXCDNGIjDAkyht-3oERT3iXuto01JBYGDuG2vyeiMUdOkFA=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocJ1f9i5DxUFubGfzoL6Q3pQjJqE8yD5Ugp-EFgajgXYbsC93g=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocJBSku9c-sKe_xJaAC6aJUnYkM28qeTvvWQcTVKSvV2Asa83A=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjUTVKxG_TrmSzN1a5PIkSOoIZS7hUfSxhPikGsTs8Ds2IzWsIg=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjVQuH_t_rK2rBR-84dCYf1FvuslkvJ2x7TFhV-wGKd3x4FO1H5R=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocIdIEirEceETFFKdVcsQM4Dh9LnPzzZfdQVkCa-0EzZi9F6jQ=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocJG9CdIxG0wOwf1RcJFgtUrweg77yHv54fEq84DWZ75RHKL=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocK1KTqcEXYQydInaqLVoLJKHIB6o2cXwLPcg7ueG1zsqAA-eRg=s120-c-rp-mo-br100
+  * Neet classes start from 1 st july .. post image -> https://lh3.googleusercontent.com/p/AF1QipMBRxvL-2dO_eHc1B83E4HjuMWd0PPmMWnuKrF5
+  *  -> /_next/static/media/decoration-pattern-2.c9ed6b94.svg
+  * Kinetix Classes For Neet and Jee -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+
+========================================
+PAGE: about
+URL: https://kinetix-classes-for.grexa.site/about
+Title: About | Kinetix Classes For Neet and Jee
+Meta: {
+  "viewport": "width=device-width, initial-scale=1",
+  "next-size-adjust": "",
+  "description": "Get to know Kinetix Classes For Neet and Jee, offering Coaching Center, Private Tutor, Learning Centre, Studying Centre. Browse our photos and get in touch.",
+  "keywords": "Coaching Center,Private Tutor,Learning Centre,Studying Centre,Training centre,Education Centre,Tutor,Educational institution,Educational testing service",
+  "robots": "index, follow",
+  "og:title": "About | Kinetix Classes For Neet and Jee",
+  "og:description": "Get to know Kinetix Classes For Neet and Jee, offering Coaching Center, Private Tutor, Learning Centre, Studying Centre. Browse our photos and get in touch.",
+  "og:url": "https://kinetix-classes-for.grexa.site/about",
+  "og:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "About | Kinetix Classes For Neet and Jee",
+  "twitter:description": "Get to know Kinetix Classes For Neet and Jee, offering Coaching Center, Private Tutor, Learning Centre, Studying Centre. Browse our photos and get in touch.",
+  "twitter:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs"
+}
+Headings:
+  [h2] Business hours
+  [h1] About Kinetix Classes For Neet and Jee
+  [h2] Our photo gallery
+  [h2] Know when to reach us.
+  [h2] Business hours
+  [h2] Products from Kinetix Classes For Neet and Jee in Greater Noida
+  [h3] Class 12 PCB Coaching in Greater Noida
+  [h3] Class 10 Board Coaching Near me.
+  [h3] Class 11 PCM Coaching in Greater Noida.
+  [h2] Google reviews
+  [h2] Latest Posts & Updates
+  [h3] Neet classes start from 1 st july ..
+Text Blocks:
+  * <p in <dialog>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <dialog>>: You can contact us anytime during the day with your query.
+  * <p in <section>>: Kinetix Classes | NEET Coaching,
+JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida*
+Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Maths Biology PCB/PCM. We provide complete science coaching for Class 9, 10, 11 & 12 with board + competitive exam preparation.
+Our Courses:NEET Coaching in Greater Noida, JEE Coaching in Greater Noida, 11th 12th PCMB Coaching, 9th 10th Foundation Course, Dropper & Crash Batch.
+Why Students Choose Kinetix:
+1. Affordable Fee Structure: Low fee with Scholarship Test + Easy EMI option
+2. Expert Faculty: IITians & Doctors with 8+ years of NEET/JEE teaching experience
+3. Personal Attention: Small batch size.
+  * <p in <div>>: Kinetix Classes For Neet and Jee · Photos
+  * <p in <div>>: We’d love to hear from you. Here’s when you can reach us. Planning ahead? Contact us to find a convenient time.
+  * <p in <section>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <section>>: You can contact us anytime during the day with your query.
+  * <blockquote in <figure>>: I m studying in dps greater noida,After the joining this coaching all doubts are clear ,
+Teachers are really good the... Read more
+  * <blockquote in <figure>>: Good
+  * <p in <blockquote>>: Good
+  * <blockquote in <figure>>: Great coaching institute with supportive teachers and a good learning environment. Highly recommended!
+  * <p in <blockquote>>: Great coaching institute with supportive teachers and a good learning environment. Highly recommended!
+  * <blockquote in <figure>>: Very good study
+Understand properly
+  * <p in <blockquote>>: Very good study
+Understand properly
+  * <blockquote in <figure>>: Good environment and facility for studies and best prepartion for jee and neet with experienced teacher
+  * <p in <blockquote>>: Good environment and facility for studies and best prepartion for jee and neet with experienced teacher
+  * <blockquote in <figure>>: Very nice classes and very handsome teacher 😊
+  * <p in <blockquote>>: Very nice classes and very handsome teacher 😊
+  * <blockquote in <figure>>: The teaching staff are excellent and they took care personally of each and every student. the teaching staff even exp... Read more
+  * <blockquote in <figure>>: Number one institute for neet , jee , 11th , 12th , pcm and pcb in greater Noida , I m preparing for neet this year a... Read more
+  * <blockquote in <figure>>: am preparing for JEE Main and joined KINETIX Classes for Class 11 Physics, Chemistry, and Mathematics. The faculty is... Read more
+  * <blockquote in <figure>>: My brother is in 11th CBSE PCMB at Kinetix Classes. They cover board + NEET/JEE syllabus together.
+
+Physics, Chemistr... Read more
+  * <p in <div>>: Your next step starts here.
+  * <p in <div>>: Tell Kinetix Classes For Neet and Jee what you’re looking for. We’re here to help you get started.
+  * <p in <div>>: Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Math... Read more
+  * <p in <div>>: Quick links
+  * <li in <ul>>: Home
+  * <li in <ul>>: Products & Services
+  * <li in <ul>>: About
+  * <li in <ul>>: Contact
+  * <li in <ul>>: Privacy Policy
+  * <li in <ul>>: Posts
+  * <p in <section>>: Contact us
+  * <p in <div>>: Kinetix Classes For Neet and Jee
+  * <p in <div>>: Looking for the right Coaching Center?
+Links:
+  * [Skip to content] -> #website-main
+  * [Greater Noida, Uttar Pradesh, 201310] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [8448040355] -> tel:8448040355
+  * [Kinetix Classes For Neet and Jee] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Posts] -> /posts
+  * [Home] -> /
+  * [] -> https://lh3.googleusercontent.com/UK9ageUOTgZMKMDUAY8UJA2Y2JO59CncsgetFVhp4YFK_w-QUm9j7976L8wI2uDkuomt9hfhGAqcrBrS=s0
+  * [] -> https://lh3.googleusercontent.com/YffIwbjclgHBq0ELbY1atn7T0tM4xolUkUAeHFuCkO5m7wTnqHZ9lABzVwGrQV6P-FiAA9bDpLNWBJU1=s0
+  * [] -> https://lh3.googleusercontent.com/deDktTwmnoyr2DHmQlPeKQejjB6QqQstHlPXftJNXbal79t9MCO2VsXvOon0WE_ODZoM4BZOSfL8HoOU=s0
+  * [] -> https://lh3.googleusercontent.com/BuSISm2K9I9VqaATomgQfTb-Ni3M-7JP3GMwAdmt3QJGuUXqNcn2zrS2sq8ONNV_K0Gy9Q82PN40z1ur=s0
+  * [] -> https://lh3.googleusercontent.com/-u2rIN0MJxbj27KCGBRKqpsZl6hlfoSx5yUOLcS3CYOpphuNF23jpChT3NRXmGCOxEju6WuJLAyLMvir=s0
+  * [] -> https://lh3.googleusercontent.com/HJTcHYy-z_xpM7kJXZKztfPaMekD5gaPTpoFdmK6Sm7E-6YUSAOpuiWO4JG7Tte5P--ZwlXu6UleqT1S=s0
+  * [] -> https://lh3.googleusercontent.com/bgEXXX6GZijMSaCaoFZE1wbDhcszdSamIEDi_pZgriRNR4ypuB5hh8IGGKgamT883zMohlKPo-K4y81e=s0
+  * [] -> https://lh3.googleusercontent.com/xRyQaFV-1hfcsQDsIKl7bE3y4IIOpOgHUN3Bg6Y60gwgVWnnfvhWvCkZbITCwJ1d-wi_XWMeRIt0LVGU=s0
+  * [Contact details and directions] -> /contact
+  * [View all products] -> /products-services?tab=products
+  * [Read all reviews on Google] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [July 3, 2026
+Neet classes start from 1 st july ..
+Read full post] -> /posts/neet-classes-start-from-1-st-july__8147479800874660152
+  * [View all posts] -> /posts
+  * [] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Privacy Policy] -> /privacy-policy
+  * [Posts] -> /posts
+  * [8448040355] -> tel:8448040355
+  * [Get directions
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/dir/?api=1&destination=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&destination_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [View map
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/search/?api=1&query=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [Grexa] -> https://grexa.ai/
+Buttons:
+  * {'text': 'Business hours:\nMonday-Sunday: 24 hours', 'type': 'button', 'ariaLabel': None, 'className': 'website_hoursTrigger__YumCg website_hoursCompact__sCLU7'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close business hours', 'className': 'website_hoursClose__hhN4C'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Open menu', 'className': 'website_menuToggle__e8dXp'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'View all photos (18)', 'type': 'button', 'ariaLabel': None, 'className': 'website_buttonOutline__8LHJl'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Zoom in', 'className': ''}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close photo gallery', 'className': ''}
+  * {'text': 'Previous photo', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonSoft__u19Po'}
+  * {'text': 'Next photo', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonSoft__u19Po'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Previous reviews', 'className': ''}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Next reviews', 'className': ''}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Read more', 'type': None, 'ariaLabel': None, 'className': 'read-toggle'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  website_stickyLeadButton__Th0Mo'}
+Forms:
+Images:
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+  * Kinetix Classes For Neet and Jee — business photo 1 -> https://lh3.googleusercontent.com/UK9ageUOTgZMKMDUAY8UJA2Y2JO59CncsgetFVhp4YFK_w-QUm9j7976L8wI2uDkuomt9hfhGAqcrBrS
+  * Kinetix Classes For Neet and Jee — business photo 2 -> https://lh3.googleusercontent.com/YffIwbjclgHBq0ELbY1atn7T0tM4xolUkUAeHFuCkO5m7wTnqHZ9lABzVwGrQV6P-FiAA9bDpLNWBJU1
+  * Kinetix Classes For Neet and Jee — business photo 3 -> https://lh3.googleusercontent.com/deDktTwmnoyr2DHmQlPeKQejjB6QqQstHlPXftJNXbal79t9MCO2VsXvOon0WE_ODZoM4BZOSfL8HoOU
+  * Kinetix Classes For Neet and Jee — business photo 4 -> https://lh3.googleusercontent.com/BuSISm2K9I9VqaATomgQfTb-Ni3M-7JP3GMwAdmt3QJGuUXqNcn2zrS2sq8ONNV_K0Gy9Q82PN40z1ur
+  * Kinetix Classes For Neet and Jee — business photo 5 -> https://lh3.googleusercontent.com/-u2rIN0MJxbj27KCGBRKqpsZl6hlfoSx5yUOLcS3CYOpphuNF23jpChT3NRXmGCOxEju6WuJLAyLMvir
+  * Kinetix Classes For Neet and Jee — business photo 6 -> https://lh3.googleusercontent.com/HJTcHYy-z_xpM7kJXZKztfPaMekD5gaPTpoFdmK6Sm7E-6YUSAOpuiWO4JG7Tte5P--ZwlXu6UleqT1S
+  * Kinetix Classes For Neet and Jee — business photo 7 -> https://lh3.googleusercontent.com/bgEXXX6GZijMSaCaoFZE1wbDhcszdSamIEDi_pZgriRNR4ypuB5hh8IGGKgamT883zMohlKPo-K4y81e
+  * Kinetix Classes For Neet and Jee — business photo 8 -> https://lh3.googleusercontent.com/xRyQaFV-1hfcsQDsIKl7bE3y4IIOpOgHUN3Bg6Y60gwgVWnnfvhWvCkZbITCwJ1d-wi_XWMeRIt0LVGU
+  * Class 12 PCB Coaching in Greater Noida product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcurbFRmu_bhAb9ZIssmh8VK7qhSiidrML9FDjgy0-Jb2T6qqargB7XO1uKiG1-yTz-gqP_80qJn9K7TAq88-rknYFQ
+  * Class 10 Board Coaching Near me. product image -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXj9LJexBXAyNqsLBymFAbfbvQnHSrDjCK86McilN1l1Hz&usqp=CAY&s=4
+  * Class 11 PCM Coaching in Greater Noida. product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcuo-yhfSQe_ebTmWWlhaEzMi3ESnANMg0Z1zRlCZ4RgXykMNeu4vG_mecSoskquHL-wYW1WZlV5NrwgmRXCBBs_lyQ
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocKfPddiYgMZ1e9kFt7dOCqUPd29vo8arjhRHuj7mgtSC6DYUQ=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocIlYgjderM0DcPt2NFzGOz4CxB93YDnNNkmzp0HVdKDELHyhQ=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocImXCDNGIjDAkyht-3oERT3iXuto01JBYGDuG2vyeiMUdOkFA=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocJ1f9i5DxUFubGfzoL6Q3pQjJqE8yD5Ugp-EFgajgXYbsC93g=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocJBSku9c-sKe_xJaAC6aJUnYkM28qeTvvWQcTVKSvV2Asa83A=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjUTVKxG_TrmSzN1a5PIkSOoIZS7hUfSxhPikGsTs8Ds2IzWsIg=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjVQuH_t_rK2rBR-84dCYf1FvuslkvJ2x7TFhV-wGKd3x4FO1H5R=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocIdIEirEceETFFKdVcsQM4Dh9LnPzzZfdQVkCa-0EzZi9F6jQ=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocJG9CdIxG0wOwf1RcJFgtUrweg77yHv54fEq84DWZ75RHKL=s120-c-rp-mo-br100
+  *  -> https://lh3.googleusercontent.com/a/ACg8ocK1KTqcEXYQydInaqLVoLJKHIB6o2cXwLPcg7ueG1zsqAA-eRg=s120-c-rp-mo-br100
+  * Neet classes start from 1 st july .. post image -> https://lh3.googleusercontent.com/p/AF1QipMBRxvL-2dO_eHc1B83E4HjuMWd0PPmMWnuKrF5
+  *  -> /_next/static/media/decoration-pattern-2.c9ed6b94.svg
+  * Kinetix Classes For Neet and Jee -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+
+========================================
+PAGE: contact
+URL: https://kinetix-classes-for.grexa.site/contact
+Title: Contact | Kinetix Classes For Neet and Jee
+Meta: {
+  "viewport": "width=device-width, initial-scale=1",
+  "next-size-adjust": "",
+  "description": "Contact Kinetix Classes For Neet and Jee about Coaching Center, Private Tutor, Learning Centre, Studying Centre. Find our contact details, address and directions, or send",
+  "keywords": "Coaching Center,Private Tutor,Learning Centre,Studying Centre,Training centre,Education Centre,Tutor,Educational institution,Educational testing service",
+  "robots": "index, follow",
+  "og:title": "Contact | Kinetix Classes For Neet and Jee",
+  "og:description": "Contact Kinetix Classes For Neet and Jee about Coaching Center, Private Tutor, Learning Centre, Studying Centre. Find our contact details, address and directions, or send",
+  "og:url": "https://kinetix-classes-for.grexa.site/contact",
+  "og:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Contact | Kinetix Classes For Neet and Jee",
+  "twitter:description": "Contact Kinetix Classes For Neet and Jee about Coaching Center, Private Tutor, Learning Centre, Studying Centre. Find our contact details, address and directions, or send",
+  "twitter:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs"
+}
+Headings:
+  [h2] Business hours
+  [h1] Contact Kinetix Classes For Neet and Jee
+  [h2] Contact details & directions
+  [h2] Business hours
+  [h2] A few helpful details.
+Text Blocks:
+  * <p in <dialog>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <dialog>>: You can contact us anytime during the day with your query.
+  * <p in <div>>: Kinetix Classes For Neet and Jee
+  * <p in <div>>: Have something in mind?
+  * <p in <div>>: Tell Kinetix Classes For Neet and Jee what you’re looking for. We’re here to help you get started.
+  * <p in <section>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <section>>: You can contact us anytime during the day with your query.
+  * <p in <div>>: Have something in mind?
+  * <p in <div>>: Tell Kinetix Classes For Neet and Jee what you’re looking for. We’re here to help you get started.
+  * <p in <div>>: Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Math... Read more
+  * <p in <div>>: Quick links
+  * <li in <ul>>: Home
+  * <li in <ul>>: Products & Services
+  * <li in <ul>>: About
+  * <li in <ul>>: Contact
+  * <li in <ul>>: Privacy Policy
+  * <li in <ul>>: Posts
+  * <p in <section>>: Contact us
+  * <p in <div>>: Kinetix Classes For Neet and Jee
+  * <p in <div>>: Looking for the right Coaching Center?
+Links:
+  * [Skip to content] -> #website-main
+  * [Greater Noida, Uttar Pradesh, 201310] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [8448040355] -> tel:8448040355
+  * [Kinetix Classes For Neet and Jee] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Posts] -> /posts
+  * [Home] -> /
+  * [8448040355] -> tel:8448040355
+  * [Get directions
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/dir/?api=1&destination=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&destination_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [View map
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/search/?api=1&query=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [] -> /products-services
+  * [] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Privacy Policy] -> /privacy-policy
+  * [Posts] -> /posts
+  * [8448040355] -> tel:8448040355
+  * [Get directions
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/dir/?api=1&destination=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&destination_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [View map
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/search/?api=1&query=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [Grexa] -> https://grexa.ai/
+Buttons:
+  * {'text': 'Business hours:\nMonday-Sunday: 24 hours', 'type': 'button', 'ariaLabel': None, 'className': 'website_hoursTrigger__YumCg website_hoursCompact__sCLU7'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close business hours', 'className': 'website_hoursClose__hhN4C'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Open menu', 'className': 'website_menuToggle__e8dXp'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Read more', 'type': None, 'ariaLabel': None, 'className': 'read-toggle'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  website_stickyLeadButton__Th0Mo'}
+Forms:
+Images:
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+  *  -> /_next/static/media/decoration-pattern-2.c9ed6b94.svg
+  * Kinetix Classes For Neet and Jee -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+
+========================================
+PAGE: posts
+URL: https://kinetix-classes-for.grexa.site/posts
+Title: Posts | Kinetix Classes For Neet and Jee
+Meta: {
+  "viewport": "width=device-width, initial-scale=1",
+  "next-size-adjust": "",
+  "description": "Read the latest news, offers and updates from Kinetix Classes For Neet and Jee.",
+  "keywords": "Coaching Center,Private Tutor,Learning Centre,Studying Centre,Training centre,Education Centre,Tutor,Educational institution,Educational testing service",
+  "robots": "index, follow",
+  "og:title": "Posts | Kinetix Classes For Neet and Jee",
+  "og:description": "Read the latest news, offers and updates from Kinetix Classes For Neet and Jee.",
+  "og:url": "https://kinetix-classes-for.grexa.site/posts",
+  "og:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Posts | Kinetix Classes For Neet and Jee",
+  "twitter:description": "Read the latest news, offers and updates from Kinetix Classes For Neet and Jee.",
+  "twitter:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs"
+}
+Headings:
+  [h2] Business hours
+  [h1] Latest Posts & Updates
+  [h2] Neet classes start from 1 st july ..
+Text Blocks:
+  * <p in <dialog>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <dialog>>: You can contact us anytime during the day with your query.
+  * <p in <header>>: Fresh stories, announcements and offers about Coaching Center, Private Tutor, Learning Centre, straight from our business.
+  * <p in <div>>: Have something in mind?
+  * <p in <div>>: Tell Kinetix Classes For Neet and Jee what you’re looking for. We’re here to help you get started.
+  * <p in <div>>: You’ve reached the end of these updates.
+  * <p in <div>>: Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Math... Read more
+  * <p in <div>>: Quick links
+  * <li in <ul>>: Home
+  * <li in <ul>>: Products & Services
+  * <li in <ul>>: About
+  * <li in <ul>>: Contact
+  * <li in <ul>>: Privacy Policy
+  * <li in <ul>>: Posts
+  * <p in <section>>: Contact us
+  * <p in <div>>: Kinetix Classes For Neet and Jee
+  * <p in <div>>: Looking for the right Coaching Center?
+Links:
+  * [Skip to content] -> #website-main
+  * [Greater Noida, Uttar Pradesh, 201310] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [8448040355] -> tel:8448040355
+  * [Kinetix Classes For Neet and Jee] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Posts] -> /posts
+  * [Home] -> /
+  * [July 3, 2026
+Neet classes start from 1 st july ..
+Read full post] -> /posts/neet-classes-start-from-1-st-july__8147479800874660152
+  * [] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Privacy Policy] -> /privacy-policy
+  * [Posts] -> /posts
+  * [8448040355] -> tel:8448040355
+  * [Get directions
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/dir/?api=1&destination=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&destination_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [View map
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/search/?api=1&query=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [Grexa] -> https://grexa.ai/
+Buttons:
+  * {'text': 'Business hours:\nMonday-Sunday: 24 hours', 'type': 'button', 'ariaLabel': None, 'className': 'website_hoursTrigger__YumCg website_hoursCompact__sCLU7'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close business hours', 'className': 'website_hoursClose__hhN4C'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Open menu', 'className': 'website_menuToggle__e8dXp'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Read more', 'type': None, 'ariaLabel': None, 'className': 'read-toggle'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  website_stickyLeadButton__Th0Mo'}
+Forms:
+Images:
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+  * Neet classes start from 1 st july .. post image -> https://lh3.googleusercontent.com/p/AF1QipMBRxvL-2dO_eHc1B83E4HjuMWd0PPmMWnuKrF5
+  *  -> /_next/static/media/decoration-pattern-2.c9ed6b94.svg
+  * Kinetix Classes For Neet and Jee -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+
+========================================
+PAGE: posts_neet-classes-start-from-1-st-july__8147479800874660152
+URL: https://kinetix-classes-for.grexa.site/posts/neet-classes-start-from-1-st-july__8147479800874660152
+Title: Neet classes start from 1 st july .. | Kinetix Classes For Neet and Jee
+Meta: {
+  "viewport": "width=device-width, initial-scale=1",
+  "next-size-adjust": "",
+  "description": "Neet classes start from 1 st july ..",
+  "keywords": "Coaching Center,Private Tutor,Learning Centre,Studying Centre,Training centre,Education Centre,Tutor,Educational institution,Educational testing service",
+  "robots": "index, follow",
+  "og:title": "Neet classes start from 1 st july .. | Kinetix Classes For Neet and Jee",
+  "og:description": "Neet classes start from 1 st july ..",
+  "og:url": "https://kinetix-classes-for.grexa.site/posts/neet-classes-start-from-1-st-july__8147479800874660152",
+  "og:image": "https://lh3.googleusercontent.com/p/AF1QipMBRxvL-2dO_eHc1B83E4HjuMWd0PPmMWnuKrF5",
+  "og:type": "article",
+  "article:published_time": "2026-07-03T18:13:14.457Z",
+  "article:modified_time": "2026-07-03T18:13:14.457Z",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Neet classes start from 1 st july .. | Kinetix Classes For Neet and Jee",
+  "twitter:description": "Neet classes start from 1 st july ..",
+  "twitter:image": "https://lh3.googleusercontent.com/p/AF1QipMBRxvL-2dO_eHc1B83E4HjuMWd0PPmMWnuKrF5"
+}
+Headings:
+  [h2] Business hours
+  [h1] Neet classes start from 1 st july ..
+  [h2] Previous posts
+  [h2] Next posts
+Text Blocks:
+  * <p in <dialog>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <dialog>>: You can contact us anytime during the day with your query.
+  * <p in <div>>: Have something in mind?
+  * <p in <div>>: Tell Kinetix Classes For Neet and Jee what you’re looking for. We’re here to help you get started.
+  * <p in <aside>>: You’re reading our earliest available post.
+  * <p in <div>>: Your next step starts here.
+  * <p in <div>>: Tell Kinetix Classes For Neet and Jee what you’re looking for. We’re here to help you get started.
+  * <p in <section>>: You’re all caught up. This is our latest post.
+  * <p in <div>>: Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Math... Read more
+  * <p in <div>>: Quick links
+  * <li in <ul>>: Home
+  * <li in <ul>>: Products & Services
+  * <li in <ul>>: About
+  * <li in <ul>>: Contact
+  * <li in <ul>>: Privacy Policy
+  * <li in <ul>>: Posts
+  * <p in <section>>: Contact us
+  * <p in <div>>: Kinetix Classes For Neet and Jee
+  * <p in <div>>: Looking for the right Coaching Center?
+Links:
+  * [Skip to content] -> #website-main
+  * [Greater Noida, Uttar Pradesh, 201310] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [8448040355] -> tel:8448040355
+  * [Kinetix Classes For Neet and Jee] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Posts] -> /posts
+  * [Home] -> /
+  * [Posts] -> /posts
+  * [Back to all posts] -> /posts
+  * [View all posts →] -> /posts
+  * [View all posts] -> /posts
+  * [] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Privacy Policy] -> /privacy-policy
+  * [Posts] -> /posts
+  * [8448040355] -> tel:8448040355
+  * [Get directions
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/dir/?api=1&destination=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&destination_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [View map
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/search/?api=1&query=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [Grexa] -> https://grexa.ai/
+Buttons:
+  * {'text': 'Business hours:\nMonday-Sunday: 24 hours', 'type': 'button', 'ariaLabel': None, 'className': 'website_hoursTrigger__YumCg website_hoursCompact__sCLU7'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close business hours', 'className': 'website_hoursClose__hhN4C'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Open menu', 'className': 'website_menuToggle__e8dXp'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Read more', 'type': None, 'ariaLabel': None, 'className': 'read-toggle'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  website_stickyLeadButton__Th0Mo'}
+Forms:
+Images:
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+  * Neet classes start from 1 st july .. -> https://lh3.googleusercontent.com/p/AF1QipMBRxvL-2dO_eHc1B83E4HjuMWd0PPmMWnuKrF5
+  *  -> /_next/static/media/decoration-pattern-2.c9ed6b94.svg
+  * Kinetix Classes For Neet and Jee -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+
+========================================
+PAGE: privacy-policy
+URL: https://kinetix-classes-for.grexa.site/privacy-policy
+Title: Privacy Policy | Kinetix Classes For Neet and Jee
+Meta: {
+  "viewport": "width=device-width, initial-scale=1",
+  "next-size-adjust": "",
+  "description": "Read how Kinetix Classes For Neet and Jee collects and uses information provided through this website.",
+  "keywords": "Coaching Center,Private Tutor,Learning Centre,Studying Centre,Training centre,Education Centre,Tutor,Educational institution,Educational testing service",
+  "robots": "index, follow",
+  "og:title": "Privacy Policy | Kinetix Classes For Neet and Jee",
+  "og:description": "Read how Kinetix Classes For Neet and Jee collects and uses information provided through this website.",
+  "og:url": "https://kinetix-classes-for.grexa.site/privacy-policy",
+  "og:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Privacy Policy | Kinetix Classes For Neet and Jee",
+  "twitter:description": "Read how Kinetix Classes For Neet and Jee collects and uses information provided through this website.",
+  "twitter:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs"
+}
+Headings:
+  [h2] Business hours
+  [h1] Privacy Policy
+  [h2] Information We Collect
+  [h2] How We Use Information
+  [h2] Sharing of Information
+  [h2] Cookies
+  [h2] Data Security
+  [h2] Your Rights
+  [h2] Updates to This Policy
+  [h2] Contact Us
+Text Blocks:
+  * <p in <dialog>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <dialog>>: You can contact us anytime during the day with your query.
+  * <p in <section>>: Effective Date: 1st January, 2025
+  * <li in <ul>>: Personal information you provide (such as name, email, phone number) when you contact us or sign up for services.
+  * <li in <ul>>: Non-personal information (such as browser type, IP address, pages visited) collected automatically through cookies or analytics tools.
+  * <li in <ul>>: Provide, operate, and improve our website and services.
+  * <li in <ul>>: Respond to inquiries or customer support requests.
+  * <li in <ul>>: Send updates, offers, or marketing communications (you can opt out anytime).
+  * <li in <ul>>: Analyze website traffic and usage patterns.
+  * <p in <section>>: We do not sell, rent, or trade your personal information. We may share data only with trusted third parties who help us operate our website, comply with legal requirements, or protect our rights.
+  * <p in <section>>: Our website may use cookies to enhance your browsing experience. You can adjust your browser settings to refuse cookies, but some features may not function properly.
+  * <p in <section>>: We implement reasonable measures to protect your personal information. However, no method of transmission over the Internet is completely secure.
+  * <p in <section>>: You may request access, correction, or deletion of your personal data by contacting us at https://kinetix-classes-for.grexa.site/contact.
+  * <p in <section>>: We may update this Privacy Policy from time to time. Changes will be posted on this page with the updated effective date.
+  * <p in <section>>: If you have any questions about this Privacy Policy, please contact us at:
+  * <li in <ul>>: 📞 8448040355
+  * <li in <ul>>: 📍 Greater Noida, Uttar Pradesh, 201310
+  * <p in <div>>: Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Math... Read more
+  * <p in <div>>: Quick links
+  * <li in <ul>>: Home
+  * <li in <ul>>: Products & Services
+  * <li in <ul>>: About
+  * <li in <ul>>: Contact
+  * <li in <ul>>: Privacy Policy
+  * <li in <ul>>: Posts
+  * <p in <section>>: Contact us
+  * <p in <div>>: Kinetix Classes For Neet and Jee
+  * <p in <div>>: Looking for the right Coaching Center?
+Links:
+  * [Skip to content] -> #website-main
+  * [Greater Noida, Uttar Pradesh, 201310] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [8448040355] -> tel:8448040355
+  * [Kinetix Classes For Neet and Jee] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Posts] -> /posts
+  * [Home] -> /
+  * [https://kinetix-classes-for.grexa.site] -> /
+  * [https://kinetix-classes-for.grexa.site/contact] -> /contact
+  * [] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Privacy Policy] -> /privacy-policy
+  * [Posts] -> /posts
+  * [8448040355] -> tel:8448040355
+  * [Get directions
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/dir/?api=1&destination=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&destination_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [View map
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/search/?api=1&query=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [Grexa] -> https://grexa.ai/
+Buttons:
+  * {'text': 'Business hours:\nMonday-Sunday: 24 hours', 'type': 'button', 'ariaLabel': None, 'className': 'website_hoursTrigger__YumCg website_hoursCompact__sCLU7'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close business hours', 'className': 'website_hoursClose__hhN4C'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Open menu', 'className': 'website_menuToggle__e8dXp'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Read more', 'type': None, 'ariaLabel': None, 'className': 'read-toggle'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  website_stickyLeadButton__Th0Mo'}
+Forms:
+Images:
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+  *  -> /_next/static/media/decoration-pattern-2.c9ed6b94.svg
+  * Kinetix Classes For Neet and Jee -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+
+========================================
+PAGE: products-services
+URL: https://kinetix-classes-for.grexa.site/products-services
+Title: Products and Services From The Best Coaching Center in Greater Noida | Kinetix Classes For Neet and Jee
+Meta: {
+  "viewport": "width=device-width, initial-scale=1",
+  "next-size-adjust": "",
+  "description": "Explore Coaching Center, Private Tutor, Learning Centre, Studying Centre from Kinetix Classes For Neet and Jee. Contact us for availability and details.",
+  "keywords": "Coaching Center,Private Tutor,Learning Centre,Studying Centre,Training centre,Education Centre,Tutor,Educational institution,Educational testing service",
+  "robots": "index, follow",
+  "og:title": "Products and Services From The Best Coaching Center in Greater Noida | Kinetix Classes For Neet and Jee",
+  "og:description": "Explore Coaching Center, Private Tutor, Learning Centre, Studying Centre from Kinetix Classes For Neet and Jee. Contact us for availability and details.",
+  "og:url": "https://kinetix-classes-for.grexa.site/products-services",
+  "og:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Products and Services From The Best Coaching Center in Greater Noida | Kinetix Classes For Neet and Jee",
+  "twitter:description": "Explore Coaching Center, Private Tutor, Learning Centre, Studying Centre from Kinetix Classes For Neet and Jee. Contact us for availability and details.",
+  "twitter:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs"
+}
+Headings:
+  [h2] Business hours
+  [h1] Products and Services From The Best Coaching Center in Greater Noida
+  [h2] JEE Coaching classes
+  [h2] NEET Coaching classes
+  [h2] NDA Coaching classess
+  [h2] CUET Coaching classes
+  [h2] Class 12 PCB Coaching
+  [h2] Class 11 PCM Coaching
+  [h2] Class 12 PCM Coaching
+  [h2] ICSE Physics , Chemistry , Maths , Biology Classes
+  [h2] CBSE Physics, Chemistry, Math and Biology Coaching
+  [h2] Class 10 Board Coaching for Math and science
+  [h2] Class 9 Math and science coaching
+  [h2] Tuition classes
+Text Blocks:
+  * <p in <dialog>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <dialog>>: You can contact us anytime during the day with your query.
+  * <p in <div>>: Explore Coaching Center, Private Tutor, Learning Centre, Studying Centre from Kinetix Classes For Neet and Jee. Ask us about availability, details or your specific needs.
+  * <p in <article>>: Structured preparation for JEE Main and Advanced with experienced faculty, concept-building, problem-solving practice, mock tests, and performance analysis. IIT JEE Coaching Greater Noida JEE Main Coaching JEE Advanced Coaching Best JEE Institute
+  * <p in <article>>: Comprehensive NEET preparation with Biology, Physics, Chemistry, NCERT-based learning, test series, previous-year questions, and regular mentoring. Best NEET Coaching Greater Noida NEET Preparation Medical Entrance Coaching
+  * <p in <article>>: NDA coaching with Mathematics, General Ability Test (GAT), English, reasoning, mock tests, and interview guidance. NDA Coaching Greater Noida. NDA Preparation Defence Exam Coaching Defence Exam Coaching
+  * <p in <article>>: Complete CUET coaching with subject preparation, aptitude training, mock tests, and exam strategy sessions. CUET Coaching Greater Noida CUET Classes CUET Preparation
+  * <p in <article>>: Class 12 PCB coaching in Greater Noida covering Physics, Chemistry and Biology for CBSE, ICSE and NEET preparation. Regular assessments, NCERT-based teaching, doubt sessions and expert faculty help students achieve top scores.
+  * <p in <article>>: Class 11 PCM coaching in Greater Noida with expert faculty for Physics, Chemistry and Mathematics. Ideal for CBSE and ICSE students preparing for school exams and IIT JEE foundation with regular tests, assignments and doubt-solving sessions.
+  * <p in <article>>: Class 12 PCM coaching in Greater Noida for board exams and IIT JEE preparation. Expert coaching in Physics, Chemistry and Mathematics with weekly tests, previous year papers, revision classes and personalized mentoring for excellent results.
+  * <p in <article>>: ICSE Physics, Chemistry, Maths & Biology Classes in Greater Noida by Kinetix Classes provide expert coaching for Classes 11 & 12 with experienced faculty, small batches, regular tests, practical learning, doubt-solving sessions and complete board exam preparation for excellent academic performance.
+  * <p in <article>>: CBSE Physics, Chemistry, Maths & Biology Coaching in Greater Noida by Kinetix Classes offers expert coaching for Classes 11 & 12 with experienced faculty, small batches, concept-based learning, regular tests, doubt-solving sessions and complete preparation for CBSE board exams, NEET and IIT JEE.
+  * <p in <article>>: Class 10 board coaching in Greater Noida for CBSE and ICSE students covering Mathematics, Science, English, Hindi and Social Science. Chapter-wise practice, sample papers, mock tests and expert guidance help students score high in board exams.
+  * <p in <article>>: Class 9 coaching in Greater Noida for CBSE and ICSE students with expert teaching in Mathematics, Science, English, Hindi and Social Science. Weekly tests, concept-based learning, revision classes and personal attention ensure strong academic performance.
+  * <p in <div>>: Your next step starts here.
+  * <p in <div>>: Tell Kinetix Classes For Neet and Jee what you’re looking for. We’re here to help you get started.
+  * <p in <div>>: Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Math... Read more
+  * <p in <div>>: Quick links
+  * <li in <ul>>: Home
+  * <li in <ul>>: Products & Services
+  * <li in <ul>>: About
+  * <li in <ul>>: Contact
+  * <li in <ul>>: Privacy Policy
+  * <li in <ul>>: Posts
+  * <p in <section>>: Contact us
+  * <p in <div>>: Kinetix Classes For Neet and Jee
+  * <p in <div>>: Looking for the right Coaching Center?
+Links:
+  * [Skip to content] -> #website-main
+  * [Greater Noida, Uttar Pradesh, 201310] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [8448040355] -> tel:8448040355
+  * [Kinetix Classes For Neet and Jee] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Posts] -> /posts
+  * [Home] -> /
+  * [Services] -> /products-services
+  * [Products] -> /products-services?tab=products
+  * [Next page] -> /products-services?page=2
+  * [] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Privacy Policy] -> /privacy-policy
+  * [Posts] -> /posts
+  * [8448040355] -> tel:8448040355
+  * [Get directions
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/dir/?api=1&destination=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&destination_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [View map
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/search/?api=1&query=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [Grexa] -> https://grexa.ai/
+Buttons:
+  * {'text': 'Business hours:\nMonday-Sunday: 24 hours', 'type': 'button', 'ariaLabel': None, 'className': 'website_hoursTrigger__YumCg website_hoursCompact__sCLU7'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close business hours', 'className': 'website_hoursClose__hhN4C'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Open menu', 'className': 'website_menuToggle__e8dXp'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Search', 'type': 'submit', 'ariaLabel': None, 'className': 'website_button__DOQbo'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Read more', 'type': None, 'ariaLabel': None, 'className': 'read-toggle'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  website_stickyLeadButton__Th0Mo'}
+Forms:
+  * {'id': '', 'action': '/products-services', 'method': 'get', 'fields': [{'tag': 'input', 'name': 'q', 'type': 'search', 'placeholder': 'What are you looking for?', 'required': False, 'label': 'Search products & services'}, {'tag': 'button', 'name': None, 'type': 'submit', 'placeholder': None, 'required': False, 'label': ''}], 'innerText': 'Search products & services\nSearch'}
+Images:
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+  *  -> /_next/static/media/decoration-pattern-2.c9ed6b94.svg
+  * Kinetix Classes For Neet and Jee -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+
+========================================
+PAGE: products-services_tab=products
+URL: https://kinetix-classes-for.grexa.site/products-services?tab=products
+Title: Products and Services From The Best Coaching Center in Greater Noida | Kinetix Classes For Neet and Jee
+Meta: {
+  "viewport": "width=device-width, initial-scale=1",
+  "next-size-adjust": "",
+  "description": "Explore Coaching Center, Private Tutor, Learning Centre, Studying Centre from Kinetix Classes For Neet and Jee. Contact us for availability and details.",
+  "keywords": "Coaching Center,Private Tutor,Learning Centre,Studying Centre,Training centre,Education Centre,Tutor,Educational institution,Educational testing service",
+  "robots": "index, follow",
+  "og:title": "Products and Services From The Best Coaching Center in Greater Noida | Kinetix Classes For Neet and Jee",
+  "og:description": "Explore Coaching Center, Private Tutor, Learning Centre, Studying Centre from Kinetix Classes For Neet and Jee. Contact us for availability and details.",
+  "og:url": "https://kinetix-classes-for.grexa.site/products-services?tab=products",
+  "og:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Products and Services From The Best Coaching Center in Greater Noida | Kinetix Classes For Neet and Jee",
+  "twitter:description": "Explore Coaching Center, Private Tutor, Learning Centre, Studying Centre from Kinetix Classes For Neet and Jee. Contact us for availability and details.",
+  "twitter:image": "https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs"
+}
+Headings:
+  [h2] Business hours
+  [h1] Products and Services From The Best Coaching Center in Greater Noida
+  [h2] Class 12 PCB Coaching in Greater Noida
+  [h2] Class 10 Board Coaching Near me.
+  [h2] Class 11 PCM Coaching in Greater Noida.
+  [h2] NEET Coaching in Greater Noida
+  [h2] Class 12 PCM Coaching in Greater Noida
+  [h2] Class 11 PCB Coaching in Greater Noida
+  [h2] IIT JEE Coaching in Greater Noida
+  [h2] Class 9 Coaching classes
+Text Blocks:
+  * <p in <dialog>>: Kinetix Classes For Neet and Jee
+  * <dt in <div>>: Monday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Tuesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Wednesday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Thursday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Friday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Saturday
+  * <dd in <div>>: 24 hours
+  * <dt in <div>>: Sunday
+  * <dd in <div>>: 24 hours
+  * <p in <dialog>>: You can contact us anytime during the day with your query.
+  * <p in <div>>: Explore Coaching Center, Private Tutor, Learning Centre, Studying Centre from Kinetix Classes For Neet and Jee. Ask us about availability, details or your specific needs.
+  * <p in <div>>: You’ve explored all available products and services.
+  * <p in <div>>: Your next step starts here.
+  * <p in <div>>: Tell Kinetix Classes For Neet and Jee what you’re looking for. We’re here to help you get started.
+  * <p in <div>>: Kinetix Classes | NEET Coaching, JEE Coaching & 11th 12th PCMB in Alpha 2, Greater Noida* Kinetix Classes at I-120, Alpha 2, Greater Noida is a trusted coaching institute for NEET, JEE Main, JEE Advanced, 11th 12th Physics Chemistry Math... Read more
+  * <p in <div>>: Quick links
+  * <li in <ul>>: Home
+  * <li in <ul>>: Products & Services
+  * <li in <ul>>: About
+  * <li in <ul>>: Contact
+  * <li in <ul>>: Privacy Policy
+  * <li in <ul>>: Posts
+  * <p in <section>>: Contact us
+  * <p in <div>>: Kinetix Classes For Neet and Jee
+  * <p in <div>>: Looking for the right Coaching Center?
+Links:
+  * [Skip to content] -> #website-main
+  * [Greater Noida, Uttar Pradesh, 201310] -> https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [8448040355] -> tel:8448040355
+  * [Kinetix Classes For Neet and Jee] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Posts] -> /posts
+  * [Home] -> /
+  * [Services] -> /products-services
+  * [Products] -> /products-services?tab=products
+  * [] -> /
+  * [Home] -> /
+  * [Products & Services] -> /products-services
+  * [About] -> /about
+  * [Contact] -> /contact
+  * [Privacy Policy] -> /privacy-policy
+  * [Posts] -> /posts
+  * [8448040355] -> tel:8448040355
+  * [Get directions
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/dir/?api=1&destination=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&destination_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [View map
+on Google Maps (opens in a new tab)] -> https://www.google.com/maps/search/?api=1&query=Kinetix+Classes+For+Neet+and+Jee%2C+I+120+Alpha+2+Greater+Noida+201310%2C+3rd+Street+Alpha+2%2C+Greater+Noida%2C+Uttar+Pradesh%2C+201310&query_place_id=ChIJC5tZtyfrDDkR2WHg2F06RR8
+  * [Grexa] -> https://grexa.ai/
+Buttons:
+  * {'text': 'Business hours:\nMonday-Sunday: 24 hours', 'type': 'button', 'ariaLabel': None, 'className': 'website_hoursTrigger__YumCg website_hoursCompact__sCLU7'}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Close business hours', 'className': 'website_hoursClose__hhN4C'}
+  * {'text': 'contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_inlineLeadLink__RuOxH '}
+  * {'text': '', 'type': 'button', 'ariaLabel': 'Open menu', 'className': 'website_menuToggle__e8dXp'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Search', 'type': 'submit', 'ariaLabel': None, 'className': 'website_button__DOQbo'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Enquire', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo website_buttonCompact__tP6J5 website_offeringAction__mKY6t'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  '}
+  * {'text': 'Read more', 'type': None, 'ariaLabel': None, 'className': 'read-toggle'}
+  * {'text': 'Contact us', 'type': 'button', 'ariaLabel': None, 'className': 'website_button__DOQbo  website_stickyLeadButton__Th0Mo'}
+Forms:
+  * {'id': '', 'action': '/products-services', 'method': 'get', 'fields': [{'tag': 'input', 'name': 'q', 'type': 'search', 'placeholder': 'What are you looking for?', 'required': False, 'label': 'Search products & services'}, {'tag': 'button', 'name': None, 'type': 'submit', 'placeholder': None, 'required': False, 'label': ''}], 'innerText': 'Search products & services\nSearch'}
+Images:
+  *  -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs
+  * Class 12 PCB Coaching in Greater Noida product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcurbFRmu_bhAb9ZIssmh8VK7qhSiidrML9FDjgy0-Jb2T6qqargB7XO1uKiG1-yTz-gqP_80qJn9K7TAq88-rknYFQ
+  * Class 10 Board Coaching Near me. product image -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXj9LJexBXAyNqsLBymFAbfbvQnHSrDjCK86McilN1l1Hz&usqp=CAY&s=4
+  * Class 11 PCM Coaching in Greater Noida. product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcuo-yhfSQe_ebTmWWlhaEzMi3ESnANMg0Z1zRlCZ4RgXykMNeu4vG_mecSoskquHL-wYW1WZlV5NrwgmRXCBBs_lyQ
+  * NEET Coaching in Greater Noida product image -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJc75BQnVJkCoA9Tfjk9Xlh6E6QrPnhbpgKQJItab8hE8J&usqp=CAY&s=4
+  * Class 12 PCM Coaching in Greater Noida product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcup_5TSVEdP884PnXOmRSNYt1Wr6mSdWDnAx7Eevxuscd7cZXGYN-VWAZhqlskDpE5YytPK4nfmX0SEaW1p0tOWFRQ
+  * Class 11 PCB Coaching in Greater Noida product image -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUTLQWDDVQt6jHu_6GJKIkpMVshvUleGd61Ft1FYYq9bae&usqp=CAY&s=4
+  * IIT JEE Coaching in Greater Noida product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcurglJ9V5umVnghM2YvvZ5hVEKKt5Zr47Ho_fvJd2zFdIopgHiKWydAisxY60b6hoTPzMTC_5d9WQpB5H67a0CY_Bg
+  * Class 9 Coaching classes product image -> https://lh3.googleusercontent.com/glsgmb/AMnFcuqShotPZjOCDw7XO74Co3XK7UAo4aTZJ_lvbBNixioP-UN5wdDQDbWJY65-sxXvg06GaqYHX-8RMaeb-NTwKPk28A
+  *  -> /_next/static/media/decoration-pattern-2.c9ed6b94.svg
+  * Kinetix Classes For Neet and Jee -> https://lh3.googleusercontent.com/a-/ALV-UjV1X5nLWA6UCsegXA1g2mK-x63BMUu4o-ArIrhRq15sI0dNTIs

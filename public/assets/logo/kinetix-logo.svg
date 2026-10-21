@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 70" fill="none">
+  <defs>
+    <linearGradient id="fullKgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5C8"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <filter id="fullKgGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Mark Symbol -->
+  <g transform="translate(6, 5) scale(0.6)">
+    <rect width="100" height="100" rx="22" fill="#0B131F"/>
+    <ellipse cx="50" cy="50" rx="36" ry="14" transform="rotate(-30 50 50)" stroke="url(#fullKgGrad)" stroke-width="3.5" stroke-linecap="round"/>
+    <ellipse cx="50" cy="50" rx="36" ry="14" transform="rotate(30 50 50)" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
+    <circle cx="50" cy="50" r="9" fill="url(#fullKgGrad)" filter="url(#fullKgGlow)"/>
+    <circle cx="50" cy="50" r="4.5" fill="#FFFFFF"/>
+    <circle cx="78" cy="34" r="3" fill="#00E5C8"/>
+  </g>
+  <!-- Brand Typography -->
+  <text x="78" y="37" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="24" letter-spacing="1.5" fill="#FFFFFF">KINETIX</text>
+  <text x="194" y="37" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="24" letter-spacing="1.5" fill="#00E5C8">CLASSES</text>
+  <text x="79" y="54" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="10.5" letter-spacing="3" fill="#94A3B8">NEET • JEE • PCMB FOUNDATION</text>
+</svg>

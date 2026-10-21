@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" fill="none">
+  <defs>
+    <linearGradient id="grad_course-class12-pcm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="120" rx="16" fill="#0E1624"/>
+  <rect width="480" height="120" rx="16" stroke="#1E293B" stroke-width="1.5"/>
+  <line x1="40" y1="60" x2="440" y2="60" stroke="#334155" stroke-width="2"/>
+        <path d="M 40 60 Q 90 15 140 60 T 240 60 T 340 60 T 440 60" stroke="#818CF8" stroke-width="3.5" fill="none"/>
+        <path d="M 40 60 Q 90 105 140 60 T 240 60 T 340 60 T 440 60" stroke="#C084FC" stroke-width="2.5" stroke-dasharray="4 4" fill="none"/>
+        <circle cx="140" cy="60" r="5" fill="#6366F1"/>
+        <circle cx="240" cy="60" r="5" fill="#818CF8"/>
+        <text x="370" y="35" fill="#C084FC" font-family="monospace" font-size="12">E = hν</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" fill="none">
+  <defs>
+    <linearGradient id="grad_course-neet-medical" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="120" rx="16" fill="#0E1624"/>
+  <rect width="480" height="120" rx="16" stroke="#1E293B" stroke-width="1.5"/>
+  <path d="M 60 40 Q 120 70 180 40 T 300 40 T 420 40" stroke="#10B981" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <path d="M 60 80 Q 120 50 180 80 T 300 80 T 420 80" stroke="#34D399" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <line x1="120" y1="58" x2="120" y2="62" stroke="#6EE7B7" stroke-width="3"/>
+        <line x1="180" y1="40" x2="180" y2="80" stroke="#6EE7B7" stroke-width="3"/>
+        <line x1="240" y1="58" x2="240" y2="62" stroke="#6EE7B7" stroke-width="3"/>
+        <line x1="300" y1="40" x2="300" y2="80" stroke="#6EE7B7" stroke-width="3"/>
+        <line x1="360" y1="58" x2="360" y2="62" stroke="#6EE7B7" stroke-width="3"/>
+        <circle cx="180" cy="40" r="5" fill="#10B981"/>
+        <circle cx="300" cy="80" r="5" fill="#34D399"/>
+</svg>
