@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <defs>
+    <linearGradient id="fac_faculty-biology-mentor" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D9488"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+  <!-- Card Base -->
+  <rect width="240" height="240" rx="24" fill="#0B131F"/>
+  <rect width="240" height="240" rx="24" stroke="#1E293B" stroke-width="2"/>
+  
+  <!-- Stylized Faculty Avatar Silhouette -->
+  <circle cx="120" cy="85" r="42" fill="url(#fac_faculty-biology-mentor)"/>
+  <circle cx="120" cy="75" r="22" fill="#FFFFFF" fill-opacity="0.9"/>
+  <path d="M 85 125 C 85 105 155 105 155 125 Z" fill="#FFFFFF" fill-opacity="0.8"/>
+  
+  <!-- Credential Badge Pill -->
+  <rect x="30" y="145" width="180" height="28" rx="14" fill="#0D9488" fill-opacity="0.2"/>
+  <rect x="30" y="145" width="180" height="28" rx="14" stroke="#0D9488" stroke-width="1.5"/>
+  <text x="120" y="163" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="700" font-size="11" fill="#FFFFFF" letter-spacing="0.5">Medical Faculty • Doctor</text>
+  
+  <!-- Subject Heading -->
+  <text x="120" y="196" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="14" fill="#FFFFFF">Senior Biology Faculty</text>
+  <text x="120" y="215" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="500" font-size="10.5" fill="#94A3B8">NCERT Line-by-Line Botany & Zoology</text>
+</svg>

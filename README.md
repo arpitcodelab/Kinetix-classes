@@ -106,7 +106,14 @@ KineticClassess/
 │   ├── types/                  # Strict TypeScript interfaces
 │   ├── App.tsx                 # Route declarations, skip link & global modals
 │   └── index.css               # Kinetic color tokens, typography & Tailwind directives
-├── docs/                       # Project documentation & audit reports
+├── docs/                       # GITHUB PAGES DEPLOYMENT ROOT (Built static production output)
+│   ├── index.html              # Production index with JSON-LD & SPA redirect decoder
+│   ├── 404.html                # GitHub Pages client-side routing fallback
+│   ├── .nojekyll               # Disables Jekyll processing for SPA assets
+│   ├── robots.txt              # Production search engine crawl instructions
+│   ├── sitemap.xml             # XML sitemap covering all 16 public URLs
+│   └── assets/                 # Code-split JS chunks, CSS, and optimized media
+├── documentation/              # Project documentation, audit records & LMS handover
 │   ├── content-inventory.md    # Source content verbatim record
 │   ├── asset-inventory.md      # Table of audited assets & usages
 │   ├── asset-manifest.json     # Asset transformation manifest
@@ -116,10 +123,32 @@ KineticClassess/
 │   ├── qa-report.md            # Comprehensive reality-check certification
 │   ├── qa-results.json         # Automated Playwright test run metrics
 │   └── lms-stage-b-handover.md # Stage B LMS architecture & database schema
+├── .github/
+│   └── workflows/
+│       └── deploy.yml          # GitHub Actions auto-deploy pipeline for GitHub Pages
 └── scripts/
     ├── qa_suite.py             # Automated end-to-end Playwright test suite
     └── verify_preview.py       # Multi-route screenshot capture script
 ```
+
+---
+
+## 🌐 GitHub Pages Deployment Guide
+
+This repository supports **both** standard GitHub Pages deployment methods out of the box:
+
+### Method 1: Deploy from Branch via `/docs` (Recommended)
+1. Go to your GitHub repository: `https://github.com/arpitcodelab/Kinetix-classes`
+2. Navigate to **Settings** → **Pages**.
+3. Under **Build and deployment**:
+   - **Source:** Select `Deploy from a branch`.
+   - **Branch:** Select `master` (or `main`) and folder `/docs`.
+4. Click **Save**.
+5. Your website will be live in 60 seconds at `https://arpitcodelab.github.io/Kinetix-classes/`!
+
+### Method 2: Deploy via GitHub Actions
+- A pre-configured workflow is included in [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
+- In **Settings** → **Pages**, switch **Source** to `GitHub Actions`. Every push will automatically build and deploy.
 
 ---
 
@@ -150,7 +179,7 @@ This rebuild was held to strict `antislop*` standards:
 The application has been architected so that the **Learning Management System (Stage B)** can be plugged in seamlessly:
 - **LMS Preview Shell:** Already active in [`src/components/layout/LMSPreviewModal.tsx`](file:///C:/Users/Arpit%20Prajapati/Desktop/lead/KineticClassess/src/components/layout/LMSPreviewModal.tsx).
 - **Route Namespace:** All student portal routes will mount under `/portal/*` (`/portal/login`, `/portal/dashboard`, `/portal/player`, `/portal/tests`).
-- **Database Schema & Handover:** See [`docs/lms-stage-b-handover.md`](file:///C:/Users/Arpit%20Prajapati/Desktop/lead/KineticClassess/docs/lms-stage-b-handover.md) for full PostgreSQL / Supabase table definitions.
+- **Database Schema & Handover:** See [`documentation/lms-stage-b-handover.md`](documentation/lms-stage-b-handover.md) for full PostgreSQL / Supabase table definitions.
 
 ---
 
@@ -160,3 +189,4 @@ The application has been architected so that the **Learning Management System (S
 - **Authorized Client:** Kinetix Classes For Neet and Jee (Greater Noida)
 - **Build Lead:** Antigravity AI Engineering (`agency-nexus` + `gsd` discipline)
 - **Date:** October 2026
+

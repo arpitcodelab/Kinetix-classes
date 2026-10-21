@@ -27,3 +27,12 @@ dist-ssr
 .env
 .env.production
 .env.local
+
+# AI Skills and Scratch/Temp Directories
+skills/
+.gemini/
+scratch/
+tmp/
+.system_generated/
+
+

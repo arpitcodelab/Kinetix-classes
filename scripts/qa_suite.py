@@ -6,7 +6,7 @@ from playwright.sync_api import sync_playwright
 
 BASE_URL = "http://localhost:4173"
 EVIDENCE_DIR = os.path.join(os.getcwd(), "evidence", "qa")
-DOCS_DIR = os.path.join(os.getcwd(), "docs")
+DOCS_DIR = os.path.join(os.getcwd(), "documentation")
 
 os.makedirs(EVIDENCE_DIR, exist_ok=True)
 os.makedirs(DOCS_DIR, exist_ok=True)

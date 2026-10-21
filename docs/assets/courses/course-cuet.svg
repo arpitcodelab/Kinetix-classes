@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" fill="none">
+  <defs>
+    <linearGradient id="grad_course-cuet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="120" rx="16" fill="#0E1624"/>
+  <rect width="480" height="120" rx="16" stroke="#1E293B" stroke-width="1.5"/>
+  <polygon points="240,25 275,45 275,75 240,95 205,75 205,45" stroke="#8B5CF6" stroke-width="3" fill="none"/>
+        <circle cx="240" cy="60" r="8" fill="#A78BFA"/>
+        <circle cx="240" cy="25" r="4" fill="#FFFFFF"/>
+        <circle cx="275" cy="45" r="4" fill="#FFFFFF"/>
+        <circle cx="275" cy="75" r="4" fill="#FFFFFF"/>
+        <circle cx="240" cy="95" r="4" fill="#FFFFFF"/>
+        <circle cx="205" cy="75" r="4" fill="#FFFFFF"/>
+        <circle cx="205" cy="45" r="4" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" fill="none">
+  <defs>
+    <linearGradient id="grad_course-class11-pcm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="120" rx="16" fill="#0E1624"/>
+  <rect width="480" height="120" rx="16" stroke="#1E293B" stroke-width="1.5"/>
+  <ellipse cx="240" cy="60" rx="90" ry="35" transform="rotate(-20 240 60)" stroke="#38BDF8" stroke-width="2.5" fill="none"/>
+        <ellipse cx="240" cy="60" rx="90" ry="35" transform="rotate(20 240 60)" stroke="#0EA5E9" stroke-width="2.5" fill="none"/>
+        <ellipse cx="240" cy="60" rx="90" ry="35" transform="rotate(90 240 60)" stroke="#00E5C8" stroke-width="2" stroke-dasharray="4 6" fill="none"/>
+        <circle cx="240" cy="60" r="10" fill="#2563EB"/>
+        <circle cx="240" cy="60" r="5" fill="#FFFFFF"/>
+        <circle cx="315" cy="40" r="4.5" fill="#00E5C8"/>
+        <circle cx="165" cy="80" r="4" fill="#38BDF8"/>
+</svg>
