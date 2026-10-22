@@ -34,3 +34,4 @@ EXPOSE 10000
 
 # Launch Nginx in foreground mode
 CMD ["nginx", "-g", "daemon off;"]
+
