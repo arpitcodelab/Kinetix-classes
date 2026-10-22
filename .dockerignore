@@ -1,0 +1,29 @@
+# Dependencies and build output
+node_modules
+docs
+dist
+.npm
+
+# Git and editor files
+.git
+.github
+.gitignore
+.vscode
+.idea
+
+# Documentation, audit screenshots, and scripts
+evidence
+documentation
+scripts
+
+# AI Skills and Scratch/Temp files
+skills
+.gemini
+scratch
+tmp
+.system_generated
+
+# Logs and environment
+*.log
+.env
+.env.*

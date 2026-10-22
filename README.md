@@ -152,6 +152,26 @@ This repository supports **both** standard GitHub Pages deployment methods out o
 
 ---
 
+## 🚀 Deploying to Render (Docker)
+
+This repository includes a multi-stage `Dockerfile`, `.dockerignore`, `nginx.conf.template`, and `render.yaml` for Render Web Services.
+
+### Option A: 1-Click Render Blueprint (Recommended)
+1. Go to your [Render Dashboard](https://dashboard.render.com/).
+2. Click **New +** → **Blueprint**.
+3. Connect repository: `https://github.com/arpitcodelab/Kinetix-classes`.
+4. Render automatically detects [`render.yaml`](render.yaml) and provisions the Web Service with Docker runtime, free tier, and health check (`/health`).
+
+### Option B: Manual Web Service Setup
+1. Click **New +** → **Web Service**.
+2. Connect your GitHub repository.
+3. Select **Docker** as the environment / runtime.
+4. Render automatically builds using `Dockerfile` and binds to `$PORT` (default 10000) using Nginx.
+5. Set Health Check path to `/health`.
+6. Click **Create Web Service**.
+
+---
+
 ## 🛡️ Anti-Slop & Craftsmanship Compliance
 
 This rebuild was held to strict `antislop*` standards:
