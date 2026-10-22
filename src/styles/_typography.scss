@@ -1,0 +1,85 @@
+@use 'tokens' as *;
+
+.knx-display {
+  font-size: clamp(2.25rem, 5vw + 1rem, 4rem);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  color: $text-primary;
+}
+
+.knx-h1 {
+  font-size: clamp(2rem, 3.5vw + 0.8rem, 3.25rem);
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+  color: $text-primary;
+}
+
+.knx-h2 {
+  font-size: clamp(1.65rem, 2.5vw + 0.5rem, 2.4rem);
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  color: $text-primary;
+}
+
+.knx-h3 {
+  font-size: clamp(1.25rem, 1.5vw + 0.4rem, 1.6rem);
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: -0.015em;
+  color: $text-primary;
+}
+
+.knx-h4 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: $text-primary;
+}
+
+.knx-lead {
+  font-size: clamp(1.05rem, 1.2vw + 0.2rem, 1.25rem);
+  color: $text-secondary;
+  line-height: 1.65;
+  max-width: 68ch;
+}
+
+.knx-body {
+  font-size: 1rem;
+  color: $text-secondary;
+  line-height: 1.6;
+}
+
+.knx-small {
+  font-size: 0.875rem;
+  color: $text-muted;
+  line-height: 1.5;
+}
+
+.knx-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $kinetic-cyan;
+  background: $kinetic-cyan-dim;
+  border: 1px solid rgba(0, 229, 200, 0.25);
+  padding: 0.35rem 0.85rem;
+  border-radius: $radius-full;
+  width: fit-content;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.text-gradient-cyan {
+  background: linear-gradient(135deg, #FFFFFF 20%, $kinetic-cyan 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

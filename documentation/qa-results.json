@@ -1,32 +1,32 @@
 {
-  "timestamp": "2026-10-22 04:48:54",
+  "timestamp": "2026-10-23 02:16:21",
   "base_url": "http://localhost:4173",
   "metrics": {
     "mobile_vitals": {
       "status_code": 200,
-      "load_duration_ms": 2073.18,
-      "ttfb_ms": 107.4,
-      "dom_content_loaded_ms": 778.1,
-      "fcp_ms": 1416,
-      "lcp_ms": 1416,
-      "cls": 0.0036,
+      "load_duration_ms": 1154.87,
+      "ttfb_ms": 3,
+      "dom_content_loaded_ms": 374.8,
+      "fcp_ms": 592,
+      "lcp_ms": 616,
+      "cls": 0,
       "console_errors": []
     },
     "desktop_vitals": {
-      "load_duration_ms": 2231.82,
-      "ttfb_ms": 7.4,
-      "dom_content_loaded_ms": 584,
-      "fcp_ms": 1028,
-      "lcp_ms": 1376,
-      "cls": 0.0395,
+      "load_duration_ms": 1088.79,
+      "ttfb_ms": 4.2,
+      "dom_content_loaded_ms": 292.6,
+      "fcp_ms": 536,
+      "lcp_ms": 1260,
+      "cls": 0.0228,
       "resourceCount": 18,
-      "totalTransferKB": 287,
+      "totalTransferKB": 272,
       "console_errors": []
     }
   },
   "journeys": {
     "journey1_lead_modal": {
-      "empty_validation_prevented_submit": false,
+      "empty_validation_prevented_submit": true,
       "dispatched_url": "https://wa.me/918448040355?text=*New%20Admission%20%2F%20Counseling%20Enquiry*%0A------------------------------------%0A*Student%2FParent%20Name%3A*%20Rohan%20Sharma%0A*Contact%20Phone%3A*%209876543210%0A*Target%20Course%3A*%20NEET%20Medical%20Coaching%0A*Current%20Class%3A*%20Class%2012th%0A*Query%2FNotes%3A*%20Interested%20in%20NEET%20regular%20batch%0A------------------------------------%0A_Sent%20from%20Kinetix%20Classes%20Website_",
       "url_contains_verified_phone": true,
       "url_contains_student_name": true,
@@ -70,13 +70,13 @@
     "em_dash_violations": []
   },
   "honesty": {
-    "form_discloses_whatsapp_direct": false,
+    "form_discloses_whatsapp_direct": true,
     "verified_phone_displayed": true,
     "verified_address_displayed": true,
     "status": "PASS"
   },
   "links_checked": {
-    "total_links": 33,
+    "total_links": 32,
     "tel_links_verified": true,
     "wa_links_verified": true,
     "maps_links_count": 3,
